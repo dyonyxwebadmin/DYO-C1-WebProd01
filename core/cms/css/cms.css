@@ -1,0 +1,22 @@
+/* CSS Document */
+
+.cms {
+	cursor: pointer;	
+}
+.cms:hover {
+	background: #FFC;
+	color: #000;
+}
+
+
+.icon {
+	cursor: pointer;	
+}
+.icon i:hover {
+	color: #FFC !important;
+}
+
+.gaget-icon {
+	padding: 10px;
+	text-align: center;
+}

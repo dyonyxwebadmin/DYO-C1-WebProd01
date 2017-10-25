@@ -1,0 +1,17 @@
+{
+    "Site": {
+        "SiteName": "DYONYX",
+		"Config": {
+            "Template": "unify"
+        },
+        "Defaults": {
+        	"PageTitle": "Welcome to Ryan's Site",
+        	"Address": "555 Main Street",
+        	"City": "Meridian",
+        	"State": "Idaho",
+        	"Zip": "83646",
+        	"ContactPhone": "208-555-1212",
+        	"ContactEmail": "info@domain.com"
+        }
+    }
+}
