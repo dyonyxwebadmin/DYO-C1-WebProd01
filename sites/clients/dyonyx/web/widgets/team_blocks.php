@@ -514,6 +514,7 @@
 
 
           <div class="col-lg-3 col-sm-6 g-mb-30"></div>
+          
           <div class="col-lg-3 col-sm-6 g-mb-30">
             <!-- Team Block -->
             <figure class="u-block-hover">
@@ -547,6 +548,48 @@
                     <h3>Trisha Ondo</h3>
                     <h5 class="g-mb-20">Program Manager, Washington DC</h5>
                     <p>Trisha Ondo is the DYONYX PMP Certified Program Manager responsible for the implementation of Electronic Document Management, Program Management, and Collaboration software for a division of DYONYX’s client, the U.S. Department of Health and Human Services in Washington D.C. Trisha has served in this position for more than 10 years, and has extensive experience in managing various software,  process development, implementation projects and teams through all phases of the software life cycle in Government and Commercial industries. Trisha’s background includes leading the implementation of MS Project Server for the Millennium Challenge Corporation (MCC), leading the analysis and development of Acquisition Processes for the Federal Technology Services National Capital Region (FTS/NCR), and leading the Nextel Partners transition to a new Billing System and Customer Billing Interfaces. Additionally, she has lead software development releases for MCI/WorldCom and AT&T.  Her experience includes management of software implementations across the globe at military installations for the Army Housing Operations Management Systems and managing the 24 Hour Customer Support Desk for these applications.</p>
+                   </div>
+                </div>
+              </div>
+            </div>
+            <!-- End Demo modal window -->
+                              
+          </div>
+
+          
+          <div class="col-lg-3 col-sm-6 g-mb-30">
+            <!-- Team Block -->
+            <figure class="u-block-hover">
+              <!-- Figure Image -->
+              <a href="#frank" data-toggle="modal">
+                <img class="w-100" src="/img/team/frank.jpg" alt="Frank Morales">
+                <!-- End Figure Image-->
+
+                <!-- Figure Caption -->
+                <figcaption class="u-block-hover__additional--v1 u-block-hover__additional--slide-down g-bg-pink-opacity-0_9 g-pa-30">
+                  <div class="u-block-hover__additional--v1 g-flex-middle">
+                    <div class="text-center g-flex-middle-item">
+                      <h4 class="h4 g-color-white g-mb-5">Frank Morales</h4>
+                      <em class="d-block g-font-style-normal g-font-size-11 g-font-weight-600 text-uppercase g-color-white-opacity-0_9">Program Manager, Austin</em>
+                    </div>
+                  </div>
+                </figcaption>
+                <!-- End Figure Caption -->
+              </a>
+            </figure>
+            <!-- End Team Block -->
+
+            <!-- Demo modal window -->
+            <div tabindex="-1" class="modal fade frank" id="frank" role="dialog" aria-labelledby="frank">
+              <div class="modal-dialog modal-md" role="document">
+                <div class="modal-content">
+                    <div class="modal-body">
+                    <button type="button" class="close" data-dismiss="modal">
+                      <i class="hs-icon hs-icon-close"></i>
+                    </button>
+                    <h3>Frank Morales</h3>
+                    <h5 class="g-mb-20">Program Manager, Austin</h5>
+                    <p>Frank holds a Bachelor of Science in Computer Science, Master Certificate in Management from Tulane University, and a Master of Business Administration (MBA) from The University of Texas- El Paso.  Frank has over 16 years of experience leading large IT projects across many industries, such as Banking, Construction, Manufacturing, Healthcare, Public Utilities, and Oil & Gas.  Frank joined DYONYX in 2007 and currently serves as the Program Manager in Austin. </p>
                    </div>
                 </div>
               </div>
