@@ -339,7 +339,7 @@
                     </button>
                     <h3>Chris Davis</h3>
                     <h5 class="g-mb-20">Manager of Infrastructure Services</h5>
-                    <p>Chris Davis was born in 1975 to a poor family in a singlewide trailer. After a rough and tumble upbringing, in which he fought the stereotypical battles of being a redneck, poor trailer trash kid he decided he did not like working in the heat and sweating for a living so he went to tech school.  Just before graduating tech school in 1996, he landed his first real job in a call center with air conditioning, answering phones for other trailer trash who bought Gateway home computer systems and didn’t realize that without dedicated phone service (no party lines) they couldn’t get the modem to work and connect to the internet.  After years of working hard and moving through several companies, leaving the trailer park, getting married and purchasing a real home in a subdivision, he landed at DYONYX where he has been since August of 2006.</p>
+                    <p>Chris Davis has been with DYONYX since 2006 and is currently serving as the Manager of Infrastructure Services and Project Manager for clients and special projects. Prior to beginning work at DYONYX, Chris  worked for multiple industries in IT including financial, oil and gas and software development.  Chris currently leads the Infrastructure Services team, which is responsible for managing DYONYX client environments, including; networks, storage, server, hosting and other infrastructure needs.</p>
                   </div>
                 </div>
               </div>

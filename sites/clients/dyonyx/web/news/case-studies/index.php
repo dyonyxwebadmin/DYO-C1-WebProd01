@@ -65,6 +65,30 @@
 
           <li class="g-brd-around g-brd-gray-light-v4 g-brd-left-3 g-brd-primary-left g-rounded-3 g-pa-20 g-mb-7">
             <div class="d-flex justify-content-start">
+              <h5 class="g-font-weight-600 g-color-black">Hurricane Harvey, 2017</h5>
+              <span class="ml-auto small g-color-primary g-px-10">Case Study</span>
+            </div>
+            <p>The effects of Hurricane Harvey were wide-spread across the Gulf Coast of Texas including the
+            Houston area where DYONYX Service Desk, Engineering Support and Data Center operations are
+            based. Harvey made landfall near Rockport, Texas 190 miles southwest of Houston as a Category
+            4 hurricane. By the time the most serious effects of Harvey reached Houston, the main issue was
+            area flooding. Based in Houston for more than 20 years, DYONYX has fully tested and matured
+            all operational contingencies that may become necessary during a storm event. During the
+            extent of Harvey’s impact to Houston, all DYONYX data center, cloud, hosting and support
+            operations continued uninterrupted.
+            </p>
+            <div class="d-flex justify-content-between">
+              <div class="align-self-center">
+                <a class="btn u-btn-outline-primary g-brd-2 g-font-weight-600 g-rounded-3" href="/downloads/case-study-hurricane-harvey-2017.pdf" target="_blank">Download</a>
+              </div>
+            </div>
+
+          </li>
+
+          <!-- List Item -->
+
+          <li class="g-brd-around g-brd-gray-light-v4 g-brd-left-3 g-brd-primary-left g-rounded-3 g-pa-20 g-mb-7">
+            <div class="d-flex justify-content-start">
               <h5 class="g-font-weight-600 g-color-black">ERCOT</h5>
               <span class="ml-auto small g-color-primary g-px-10">Case Study</span>
             </div>
