@@ -77,8 +77,7 @@
                   <a class="u-link-v5 g-color-black g-color-primary--hover g-cursor-pointer" href="javascript:;">DYONYX Cloud Starter Pack</a>
                 </h2>
                 <p class="g-color-gray-dark-v4 g-line-height-1_8">We've designed the DYONYX Cloud Starter Pack specifically to help IT Directors and personnel with issues like cost and security.  This package takes away the guesswork, doesn't require extra team members and saves you time.</p>
-                <a class="g-font-size-13" href="/news/article/houston-top-ten">Learm More...</a>
-
+                
               </div>
             </article>
             <!-- End Blog Classic Blocks -->
@@ -92,10 +91,10 @@
               <div class="g-bg-white g-pa-30">
                 <span class="d-block g-color-gray-dark-v4 g-font-weight-600 g-font-size-12 text-uppercase mb-2">12 October 2017</span>
                 <h2 class="h5 g-color-black g-font-weight-600 mb-3">
-                  <a class="u-link-v5 g-color-black g-color-primary--hover g-cursor-pointer" href="http://go.dyonyx.com/cloudstarerpack" target="_blank">DYONYX Named One of Houston’s 2017 Top 10 IT Managed Services Companies by the Houston Business Journal</a>
+                  <a class="u-link-v5 g-color-black g-color-primary--hover g-cursor-pointer" href="/news/article/houston-top-ten">DYONYX Named One of Houston’s 2017 Top 10 IT Managed Services Companies by the Houston Business Journal</a>
                 </h2>
                 <p class="g-color-gray-dark-v4 g-line-height-1_8">DYONYX, a leading innovative IT solutions provider headquartered in Houston, TX, has been named one of the 2017 Top 10 IT Managed Services Companies by the Houston Business Journal.</p>
-                <a class="g-font-size-13" href="http://go.dyonyx.com/cloudstarerpack" target="_blank">Read more...</a>
+                <a class="g-font-size-13" href="/news/article/houston-top-ten">Read more...</a>
 
               </div>
             </article>
