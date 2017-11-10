@@ -429,21 +429,21 @@
             <!-- End Demo modal window -->
                               
           </div>
-
+          
           <div class="col-lg-3 col-sm-6 g-mb-30">
             <!-- Team Block -->
             <figure class="u-block-hover">
               <!-- Figure Image -->
-              <a href="#tina" data-toggle="modal">
-                <img class="w-100" src="/img/team/tina.jpg" alt="Steve Andreson">
+              <a href="#trisha" data-toggle="modal">
+                <img class="w-100" src="/img/team/trisha.jpg" alt="Trisha Ondo">
                 <!-- End Figure Image-->
 
                 <!-- Figure Caption -->
-                <figcaption class="u-block-hover__additional--v1 u-block-hover__additional--slide-down g-bg-blue-opacity-0_9 g-pa-30">
+                <figcaption class="u-block-hover__additional--v1 u-block-hover__additional--slide-left g-bg-teal-opacity-0_9 g-pa-30">
                   <div class="u-block-hover__additional--v1 g-flex-middle">
                     <div class="text-center g-flex-middle-item">
-                      <h4 class="h4 g-color-white g-mb-5">Tina McArthur</h4>
-                      <em class="d-block g-font-style-normal g-font-size-11 g-font-weight-600 text-uppercase g-color-white-opacity-0_9">Marketing Manager</em>
+                      <h4 class="h4 g-color-white g-mb-5">Trisha Ondo</h4>
+                      <em class="d-block g-font-style-normal g-font-size-11 g-font-weight-600 text-uppercase g-color-white-opacity-0_9">Program Manager, Washington DC</em>
                     </div>
                   </div>
                 </figcaption>
@@ -453,17 +453,17 @@
             <!-- End Team Block -->
 
             <!-- Demo modal window -->
-            <div tabindex="-1" class="modal fade tina" id="tina" role="dialog" aria-labelledby="tina">
+            <div tabindex="-1" class="modal fade trisha" id="trisha" role="dialog" aria-labelledby="trisha">
               <div class="modal-dialog modal-md" role="document">
                 <div class="modal-content">
                     <div class="modal-body">
                     <button type="button" class="close" data-dismiss="modal">
                       <i class="hs-icon hs-icon-close"></i>
                     </button>
-                    <h3>Tina McArthur</h3>
-                    <h5 class="g-mb-20">Marketing Manager</h5>
-                    <p>Tina McArthur has served as the Marketing Manager for DYONYX since 2013. Tina manages all marketing efforts and web presence for the company, constantly seeking out new ways to promote the DYONYX brand and grow the company through events, campaigns, graphic design, advertising and content creation. Tina worked in Public Relations, Operations and Event Management prior to joining the DYONYX family.</p>
-                  </div>
+                    <h3>Trisha Ondo</h3>
+                    <h5 class="g-mb-20">Program Manager, Washington DC</h5>
+                    <p>Trisha Ondo is the DYONYX PMP Certified Program Manager responsible for the implementation of Electronic Document Management, Program Management, and Collaboration software for a division of DYONYX’s client, the U.S. Department of Health and Human Services in Washington D.C. Trisha has served in this position for more than 10 years, and has extensive experience in managing various software,  process development, implementation projects and teams through all phases of the software life cycle in Government and Commercial industries. Trisha’s background includes leading the implementation of MS Project Server for the Millennium Challenge Corporation (MCC), leading the analysis and development of Acquisition Processes for the Federal Technology Services National Capital Region (FTS/NCR), and leading the Nextel Partners transition to a new Billing System and Customer Billing Interfaces. Additionally, she has lead software development releases for MCI/WorldCom and AT&T.  Her experience includes management of software implementations across the globe at military installations for the Army Housing Operations Management Systems and managing the 24 Hour Customer Support Desk for these applications.</p>
+                   </div>
                 </div>
               </div>
             </div>
@@ -514,21 +514,21 @@
 
 
           <div class="col-lg-3 col-sm-6 g-mb-30"></div>
-          
+
           <div class="col-lg-3 col-sm-6 g-mb-30">
             <!-- Team Block -->
             <figure class="u-block-hover">
               <!-- Figure Image -->
-              <a href="#trisha" data-toggle="modal">
-                <img class="w-100" src="/img/team/trisha.jpg" alt="Trisha Ondo">
+              <a href="#tina" data-toggle="modal">
+                <img class="w-100" src="/img/team/tina.jpg" alt="Steve Andreson">
                 <!-- End Figure Image-->
 
                 <!-- Figure Caption -->
-                <figcaption class="u-block-hover__additional--v1 u-block-hover__additional--slide-left g-bg-teal-opacity-0_9 g-pa-30">
+                <figcaption class="u-block-hover__additional--v1 u-block-hover__additional--slide-down g-bg-blue-opacity-0_9 g-pa-30">
                   <div class="u-block-hover__additional--v1 g-flex-middle">
                     <div class="text-center g-flex-middle-item">
-                      <h4 class="h4 g-color-white g-mb-5">Trisha Ondo</h4>
-                      <em class="d-block g-font-style-normal g-font-size-11 g-font-weight-600 text-uppercase g-color-white-opacity-0_9">Program Manager, Washington DC</em>
+                      <h4 class="h4 g-color-white g-mb-5">Tina McArthur</h4>
+                      <em class="d-block g-font-style-normal g-font-size-11 g-font-weight-600 text-uppercase g-color-white-opacity-0_9">Marketing Manager</em>
                     </div>
                   </div>
                 </figcaption>
@@ -538,17 +538,17 @@
             <!-- End Team Block -->
 
             <!-- Demo modal window -->
-            <div tabindex="-1" class="modal fade trisha" id="trisha" role="dialog" aria-labelledby="trisha">
+            <div tabindex="-1" class="modal fade tina" id="tina" role="dialog" aria-labelledby="tina">
               <div class="modal-dialog modal-md" role="document">
                 <div class="modal-content">
                     <div class="modal-body">
                     <button type="button" class="close" data-dismiss="modal">
                       <i class="hs-icon hs-icon-close"></i>
                     </button>
-                    <h3>Trisha Ondo</h3>
-                    <h5 class="g-mb-20">Program Manager, Washington DC</h5>
-                    <p>Trisha Ondo is the DYONYX PMP Certified Program Manager responsible for the implementation of Electronic Document Management, Program Management, and Collaboration software for a division of DYONYX’s client, the U.S. Department of Health and Human Services in Washington D.C. Trisha has served in this position for more than 10 years, and has extensive experience in managing various software,  process development, implementation projects and teams through all phases of the software life cycle in Government and Commercial industries. Trisha’s background includes leading the implementation of MS Project Server for the Millennium Challenge Corporation (MCC), leading the analysis and development of Acquisition Processes for the Federal Technology Services National Capital Region (FTS/NCR), and leading the Nextel Partners transition to a new Billing System and Customer Billing Interfaces. Additionally, she has lead software development releases for MCI/WorldCom and AT&T.  Her experience includes management of software implementations across the globe at military installations for the Army Housing Operations Management Systems and managing the 24 Hour Customer Support Desk for these applications.</p>
-                   </div>
+                    <h3>Tina McArthur</h3>
+                    <h5 class="g-mb-20">Marketing Manager</h5>
+                    <p>Tina McArthur has served as the Marketing Manager for DYONYX since 2013. Tina manages all marketing efforts and web presence for the company, constantly seeking out new ways to promote the DYONYX brand and grow the company through events, campaigns, graphic design, advertising and content creation. Tina worked in Public Relations, Operations and Event Management prior to joining the DYONYX family.</p>
+                  </div>
                 </div>
               </div>
             </div>
