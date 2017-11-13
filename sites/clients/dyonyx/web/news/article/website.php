@@ -33,7 +33,7 @@
                   <i class="g-color-gray-light-v2 g-ml-5">/</i>
                 </li>
                 <li class="list-inline-item g-color-primary">
-                  <span>Houston Tech Summit</span>
+                  <span>After the Flood</span>
                 </li>
               </ul>
             </div>
@@ -42,37 +42,42 @@
       </section>
       <!-- End Breadcrumbs -->
 
-
       <!-- Blog Single Item Info -->
       <section class="container g-pt-100 g-pb-60">
         <div class="row justify-content-center">
           <div class="col-lg-9">
             <div class="g-mb-60">
-              <h2 class="g-color-black g-font-weight-600 text-center g-mb-30">Houston Tech Summit</h2>
+              <h2 class="g-color-black g-font-weight-600 text-center g-mb-30">DYONYX Launches Streamlined, Redesigned Website</h2>
             </div>
 
+            <p><strong>Houston, TX</strong> &mdash; DYONYX, LP, a Houston-based innovative IT solutions provider, redesigned the www.DYONYX.com website with dynamic content and a sleek, easily navigable design.
 
+            <p>
+              The site is optimized for mobile use and features:
 
-              <p><strong>Houston, TX</strong> &mdash; DYONYX, a leading total IT solutions provider headquartered in Houston, TX, will sponsor a vendor booth at the upcoming Houston Tech Summit on December 8th at the Marriott Marquis hotel in downtown Houston.</p>
+              <ul>
+                  <li>new videos and blog content, including DYONYX's experience assisting customers during Hurricane Harvey in September 2017</li>
+                  <li>exclusive information briefs and white papers </li>
+                  <li>stories from DYONYX clients from over the years on how DYONYX has helped them achieve their business goals </li>
+              </ul>              
+            </p>
 
+            <p>"DYONYX continues to be on the forefront of technology as we design the highest quality and most innovative modern solutions for our clients, and we wanted our website to reflect that," stated Chuck Orrico, President and CEO at DYONYX. "The new site design allows us to tell the story of how our solutions impact our clients and to more easily highlight trends and critical news in the IT field so we can keep our site visitors up-to-date," he continued.  </p>
 
-              <p>The Houston Tech Summit is designed to provide attendees with the latest IT trends and knowledge and allow them to learn about best practices other leading companies have adopted, key IT challenges they are facing, and new solutions that are solving these challenges. Topics include security, cloud, network and wireless technologies, backup and disaster recovery.</p>
+            <p>DYONYX's new site features their four main areas of service, IT Managed Services, Cloud Services, Security Services and Professional Services as well as the federal and commercial industries they serve, including oil and gas, energy, healthcare, real estate and financial services. In addition, it features DYONYX's signature client engagement model, its expanded leadership team and the charities DYONYX has been working with across Houston and the country throughout its 22 years in business. </p>
 
-              <p>The event offers free registration to attendees. To learn more and register to attend, visit <a href="http://www.houston-summit.com" target="_blank">http://www.houston-summit.com</a></p>
-
+            <p>The site relaunch comes on the heels of the announcement that DYONYX was recently named as one of the Top 10 IT Managed Services Companies in Houston by the Houston Business Journal. To learn more and visit the redesigned site, click here or go to <a href="https://www.dyonyx.com">www.dyonyx.com</a></p>
 
           </div>
         </div>
       </section>
       <!-- End Blog Single Item Info -->
 
-
       <?php widget("blog_about") ?>
 
       <?php includes("footer") ?>
 
     </main>
-
 
     <?php includes("js") ?>
 

@@ -65,7 +65,7 @@
                 <p>On April 4, 2017, DYONYX was awarded an IT outsourced support contract by a leading manufacturing firm based out of Germany with several U.S. office locations including Houston. DYONYX will be providing daily operational IT support to the Houston division that will involve 24/7 support of the company’s IT infrastructure and will also involve back-up and DR services. </p>
               </div>
               <div class="col-md-6 g-mb-60">
-                <img class="img-fluid" src="/img/news/manufacturing.png" alt="Outsource Support Contract by International Manufacturing Company">
+                <img class="img-fluid" src="/img/blog/manufacturing.png" alt="Outsource Support Contract by International Manufacturing Company">
               </div>
             </div>
 
@@ -76,7 +76,7 @@
                 <p>The contract will involve reviewing and assessing disaster recovery and business continuity processes along with prioritized recommendations to validate performance against industry best practices. </p>
               </div>
               <div class="col-md-6 flex-md-first g-mb-60">
-                <img class="img-fluid" src="/img/news/finacial-services.png" alt="Disaster Recovery Contract by a National Financial Services Provider">
+                <img class="img-fluid" src="/img/blog/finacial-services.png" alt="Disaster Recovery Contract by a National Financial Services Provider">
               </div>
             </div>
 
@@ -86,7 +86,7 @@
                 <p>On May 1, 2017, DYONYX was awarded a Professional Services contract to provide comprehensive IT Assessment Services by a leading distributor of international products throughout the United States. The contract will involve a thorough assessment of the entire IT infrastructure and technologies along with prioritized recommendations to validate performance against industry best practices.  </p>
               </div>
               <div class="col-md-6 g-mb-60">
-                <img class="img-fluid" src="/img/news/distribution.png" alt="IT Assessment Contract by Houston-based Distributing Company">
+                <img class="img-fluid" src="/img/blog/distribution.png" alt="IT Assessment Contract by Houston-based Distributing Company">
               </div>
             </div>
 
@@ -96,7 +96,7 @@
                 <p>On May 11, 2017, DYONYX was awarded a Security consulting contract to develop a comprehensive cybersecurity and physical security outreach program for Texas electric utilities, electric cooperatives and municipally owned electric utilities.</p>
               </div>
               <div class="col-md-6 flex-md-first g-mb-60">
-                <img class="img-fluid" src="/img/news/utilities.png" alt="Security Consulting Contract by Leading Texas Utility Agency">
+                <img class="img-fluid" src="/img/blog/utilities.png" alt="Security Consulting Contract by Leading Texas Utility Agency">
               </div>
             </div>
 

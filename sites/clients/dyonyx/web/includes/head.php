@@ -40,7 +40,6 @@
                       
 
     <!-- Revolution Slider -->
-    <link rel="stylesheet" href="/js/vendor/revolution-slider/revolution/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css">
     <link rel="stylesheet" href="/js/vendor/revolution-slider/revolution/css/settings.css">
     <link rel="stylesheet" href="/js/vendor/revolution-slider/revolution/css/layers.css">
     <link rel="stylesheet" href="/js/vendor/revolution-slider/revolution/css/navigation.css">

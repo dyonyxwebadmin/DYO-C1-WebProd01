@@ -62,6 +62,23 @@
         <div class="masonry-grid row g-mb-70">
           <div class="masonry-grid-sizer col-sm-1"></div>
 
+
+          <div class="masonry-grid-item col-sm-6 g-mb-30">
+            <!-- Blog Classic Blocks -->
+            <article class="u-shadow-v11">
+              <div class="g-bg-white g-pa-30">
+                <span class="d-block g-color-gray-dark-v4 g-font-weight-600 g-font-size-12 text-uppercase mb-2">13 November 2017</span>
+                <h2 class="h5 g-color-black g-font-weight-600 mb-3">
+                  <a class="u-link-v5 g-color-black g-color-primary--hover g-cursor-pointer" href="/news/article/website">DYONYX Launches Streamlined, Redesigned Website </a>
+                </h2>
+                <p class="g-color-gray-dark-v4 g-line-height-1_8">DYONYX, LP, a Houston-based innovative IT solutions provider, redesigned the www.DYONYX.com website with dynamic content and a sleek, easily navigable design.</p>
+                <a class="g-font-size-13" href="/news/article/website">Read more...</a>
+
+              </div>
+            </article>
+            <!-- End Blog Classic Blocks -->
+          </div>
+
           <div class="masonry-grid-item col-sm-6 g-mb-30">
             <!-- Blog Classic Blocks -->
             <article class="u-shadow-v11">
@@ -74,7 +91,7 @@
               <div class="g-bg-white g-pa-30">
                 <span class="d-block g-color-gray-dark-v4 g-font-weight-600 g-font-size-12 text-uppercase mb-2">16 October 2017</span>
                 <h2 class="h5 g-color-black g-font-weight-600 mb-3">
-                  <a class="u-link-v5 g-color-black g-color-primary--hover g-cursor-pointer" href="javascript:;">DYONYX Cloud Starter Pack</a>
+                  <span class="u-link-v5 g-color-black">DYONYX Cloud Starter Pack</span>
                 </h2>
                 <p class="g-color-gray-dark-v4 g-line-height-1_8">We've designed the DYONYX Cloud Starter Pack specifically to help IT Directors and personnel with issues like cost and security.  This package takes away the guesswork, doesn't require extra team members and saves you time.</p>
                 
@@ -126,7 +143,7 @@
               <div class="g-bg-white g-pa-30">
                 <span class="d-block g-color-gray-dark-v4 g-font-weight-600 g-font-size-12 text-uppercase mb-2">Friday, 01 September 2017</span>
                 <h2 class="h5 g-color-black g-font-weight-600 mb-3">
-                  <span class="u-link-v5 g-color-black g-color-primary--hover">After the Flood</span>
+                  <span class="u-link-v5 g-color-black">After the Flood</span>
                 </h2>
                 <p class="g-color-gray-dark-v4 g-line-height-1_8">Our community in Houston has been banding together the last few days as we've been experiencing the damaging effects of Hurricane Harvey. We have all been hearing and processing a lot of information coming our way, and we've put together a list of information that might be useful for anyone impacted by the storm. Please note: we hope this information is helpful, but it is not intended to be used as legal, medical or any professional advice (in other words, no liabilities, guarantees or warranties are being issued with this note).</p>
 
@@ -145,7 +162,7 @@
                 <h2 class="h5 g-color-black g-font-weight-600 mb-3">
                   <a class="u-link-v5 g-color-black g-color-primary--hover g-cursor-pointer" href="/news/article/houston-tech-summit">DYONYX Sponsoring the Houston Tech Summit</a>
                 </h2>
-                <p class="g-color-gray-dark-v4 g-line-height-1_8">DYONYX, a leading total IT solutions provider headquartered in Houston, TX, will sponsor a vendor booth at the upcoming Houston Tech Summit on September 8th at the Marriott Marquis hotel in downtown Houston.</p>
+                <p class="g-color-gray-dark-v4 g-line-height-1_8">DYONYX, a leading total IT solutions provider headquartered in Houston, TX, will sponsor a vendor booth at the upcoming Houston Tech Summit on December 8th at the Marriott Marquis hotel in downtown Houston.</p>
                 <a class="g-font-size-13" href="/news/article/houston-tech-summit">Read more...</a>
 
               </div>
@@ -161,10 +178,10 @@
               <div class="g-bg-white g-pa-30">
                 <span class="d-block g-color-gray-dark-v4 g-font-weight-600 g-font-size-12 text-uppercase mb-2">22 August 2017</span>
                 <h2 class="h5 g-color-black g-font-weight-600 mb-3">
-                  <a class="u-link-v5 g-color-black g-color-primary--hover g-cursor-pointer" href="/article/it-outsource-support-contract">DYONYX Awarded IT Outsource Support Contract by Houston Based Packaging Company</a>
+                  <a class="u-link-v5 g-color-black g-color-primary--hover g-cursor-pointer" href="/news/article/it-outsource-support-contract">DYONYX Awarded IT Outsource Support Contract by Houston Based Packaging Company</a>
                 </h2>
                 <p class="g-color-gray-dark-v4 g-line-height-1_8">On August 21, 2017 DYONYX was awarded an IT outsource support contract by a leading packaging firm headquartered in Houston, Texas.</p>
-                <a class="g-font-size-13" href="/article/it-outsource-support-contract">Read more...</a>
+                <a class="g-font-size-13" href="/news/article/it-outsource-support-contract">Read more...</a>
 
               </div>
             </article>
@@ -178,10 +195,10 @@
               <div class="g-bg-white g-pa-30">
                 <span class="d-block g-color-gray-dark-v4 g-font-weight-600 g-font-size-12 text-uppercase mb-2">20 June 2017</span>
                 <h2 class="h5 g-color-black g-font-weight-600 mb-3">
-                  <a class="u-link-v5 g-color-black g-color-primary--hover g-cursor-pointer" href="/article/service-desk-houston">DYONYX Awarded Service Desk Contract by Leading City of Houston Agency</a>
+                  <a class="u-link-v5 g-color-black g-color-primary--hover g-cursor-pointer" href="/news/article/service-desk-houston">DYONYX Awarded Service Desk Contract by Leading City of Houston Agency</a>
                 </h2>
                 <p class="g-color-gray-dark-v4 g-line-height-1_8">Houston, TX-- On June 16, 2017, DYONYX was awarded a Professional Services contract to provide ITIL based service desk training and support to a City of Houston Agency.</p>
-                <a class="g-font-size-13" href="/article/service-desk-houston">Read more...</a>
+                <a class="g-font-size-13" href="/news/article/service-desk-houston">Read more...</a>
 
               </div>
             </article>
@@ -200,7 +217,7 @@
               <div class="g-bg-white g-pa-30">
                 <span class="d-block g-color-gray-dark-v4 g-font-weight-600 g-font-size-12 text-uppercase mb-2">29 May 2017</span>
                 <h2 class="h5 g-color-black g-font-weight-600 mb-3">
-                  <a class="u-link-v5 g-color-black g-color-primary--hover g-cursor-pointer" href="javascript:;">DYONYX's Client Engagement Model</a>
+                  <span class="u-link-v5 g-color-black">DYONYX's Client Engagement Model</span>
                 </h2>
                 <p class="g-color-gray-dark-v4 g-line-height-1_8">Watch DYONYX's Client Engagement Model unfold and learn how DYONYX builds a true IT partnership with its clients, beyond just managing day-to-day IT needs. Instead, DYONYX provides tactical and strategic support, helping clients achieve their company objectives, resulting in increased productivity and efficiency.</p>
 
@@ -238,41 +255,11 @@
                 </h2>
                 <p class="g-color-gray-dark-v4 g-line-height-1_8">DYONYX, a leading total IT solutions provider, will be a sponsor at the 4th Annual SIM Houston CIO Charity Golf Tournament on April 22nd. The 2016 Golf Tournament raised $75,000 dollars for local Houston STEM-based education and non-profit organizations. DYONYX leadership and team members will participate in the tournament and sponsor beverages for the players.</p>
                 <a class="g-font-size-13" href="/news/article/sim-houston-cio-charity-golf-tournament">Read more...</a>
-
               </div>
             </article>
             <!-- End Blog Classic Blocks -->
           </div>
         </div>
-
-        <!-- Pagination -->
-        <nav class="text-center hide" aria-label="Page Navigation">
-          <ul class="list-inline">
-            <li class="list-inline-item float-left hidden-xs-down">
-              <a class="u-pagination-v1__item u-pagination-v1-4 g-brd-gray-light-v3 g-brd-primary--hover g-rounded-50 g-pa-7-16" href="#" aria-label="Previous">
-              <span aria-hidden="true">
-                <i class="fa fa-angle-left g-mr-5"></i> Previous
-              </span>
-                <span class="sr-only">Previous</span>
-              </a>
-            </li>
-            <li class="list-inline-item">
-              <a class="u-pagination-v1__item u-pagination-v1-4 u-pagination-v1-4--active g-rounded-50 g-pa-7-14" href="#">1</a>
-            </li>
-            <li class="list-inline-item">
-              <a class="u-pagination-v1__item u-pagination-v1-4 g-rounded-50 g-pa-7-14" href="#">2</a>
-            </li>
-            <li class="list-inline-item float-right hidden-xs-down">
-              <a class="u-pagination-v1__item u-pagination-v1-4 g-brd-gray-light-v3 g-brd-primary--hover g-rounded-50 g-pa-7-16" href="#" aria-label="Next">
-              <span aria-hidden="true">
-                Next <i class="fa fa-angle-right g-ml-5"></i>
-              </span>
-                <span class="sr-only">Next</span>
-              </a>
-            </li>
-          </ul>
-        </nav>
-        <!-- End Pagination -->
       </div>
       <!-- End Blog Grid Classic Blocks -->
 
@@ -286,33 +273,12 @@
 
     <!-- JS Plugins Init. -->
     <script>
-      $(document).on('ready', function () {
-        // initialization of tabs
-        $.HSCore.components.HSTabs.init('[role="tablist"]');
-
-        // initialization of go to
-        $.HSCore.components.HSGoTo.init('.js-go-to');
-      });
-
       $(window).on('load', function () {
-        // initialization of header
-        $.HSCore.components.HSHeader.init($('#js-header'));
-        $.HSCore.helpers.HSHamburgers.init('.hamburger');
-
-        // initialization of HSMegaMenu component
-        $('.js-mega-menu').HSMegaMenu({
-          event: 'hover',
-          pageContainer: $('.container'),
-          breakpoint: 991
-        });
-
         // initialization of masonry
-        $('.masonry-grid').imagesLoaded().then(function () {
-          $('.masonry-grid').masonry({
-            columnWidth: '.masonry-grid-sizer',
-            itemSelector: '.masonry-grid-item',
-            percentPosition: true
-          });
+        $('.masonry-grid').masonry({
+          columnWidth: '.masonry-grid-sizer',
+          itemSelector: '.masonry-grid-item',
+          percentPosition: true
         });
       });
 
