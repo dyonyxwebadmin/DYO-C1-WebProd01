@@ -161,6 +161,7 @@
           </div>
 
 
+
           <div class="masonry-grid-item col-sm-6 g-mb-30">
             <!-- Blog Classic Blocks -->
             <article class="u-shadow-v11">
@@ -168,9 +169,10 @@
               <div class="g-bg-white g-pa-30">
                 <span class="d-block g-color-gray-dark-v4 g-font-weight-600 g-font-size-12 text-uppercase mb-2">Friday, 01 September 2017</span>
                 <h2 class="h5 g-color-black g-font-weight-600 mb-3">
-                  <span class="u-link-v5 g-color-black">After the Flood</span>
+                  <a class="u-link-v5 g-color-black g-color-primary--hover" href="/news/article/after-the-flood">After the Flood</a>
                 </h2>
                 <p class="g-color-gray-dark-v4 g-line-height-1_8">Our community in Houston has been banding together the last few days as we've been experiencing the damaging effects of Hurricane Harvey. We have all been hearing and processing a lot of information coming our way, and we've put together a list of information that might be useful for anyone impacted by the storm. Please note: we hope this information is helpful, but it is not intended to be used as legal, medical or any professional advice (in other words, no liabilities, guarantees or warranties are being issued with this note).</p>
+                <a class="g-font-size-13" href="/news/article/after-the-flood">Read more...</a>
 
               </div>
             </article>
