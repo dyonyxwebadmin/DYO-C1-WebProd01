@@ -61,7 +61,31 @@
       <div class="container g-py-100">
         <div class="masonry-grid row g-mb-70">
           <div class="masonry-grid-sizer col-sm-1"></div>
+          
+          <div class="masonry-grid-item col-sm-6 g-mb-30">
+            <!-- Blog Classic Blocks -->
+            <article class="u-shadow-v11">
+              <div class="g-bg-white g-pa-30">
+                <span class="d-block g-color-gray-dark-v4 g-font-weight-600 g-font-size-12 text-uppercase mb-2">20 November 2017</span>
+                <h2 class="h5 g-color-black g-font-weight-600 mb-3">
+                  <a class="u-link-v5 g-color-black g-color-primary--hover g-cursor-pointer" href="/news/article/website">DYONYX Opens New Headquarters in Houston, TX</a>
+                </h2>
 
+                <p class="g-color-gray-dark-v4 g-line-height-1_8">Houston, TX- DYONYX, a leading innovative IT solutions provider, has relocated its corporate headquarters to the Granite Tower in Houston, TX in a redesigned workspace. The new headquarters address is:</p>
+
+                <p class="g-color-gray-dark-v4 g-line-height-1_8" style="padding-left: 30px;">
+                  DYONYX <br />
+                  13430 Northwest Freeway, Suite 1000 <br />
+                  Houston, TX 77040<br />
+                </p>
+
+
+                <a class="g-font-size-13" href="/news/article/new-headquarters">Read more...</a>
+
+              </div>
+            </article>
+            <!-- End Blog Classic Blocks -->
+          </div>
 
           <div class="masonry-grid-item col-sm-6 g-mb-30">
             <!-- Blog Classic Blocks -->
@@ -89,12 +113,13 @@
               <!-- End Youtube Example -->
 
               <div class="g-bg-white g-pa-30">
-                <span class="d-block g-color-gray-dark-v4 g-font-weight-600 g-font-size-12 text-uppercase mb-2">16 October 2017</span>
+                <a href="http://go.dyonyx.com/cloudstarterpack?__hstc=258935445.7b6e1537812e75c362c07833c3d44ef4.1510291518076.1511203892377.1511206947252.5&__hssc=258935445.1.1511206947252&__hsfp=85180081" class="d-block g-color-gray-dark-v4 g-font-weight-600 g-font-size-12 text-uppercase mb-2">16 October 2017</a>
                 <h2 class="h5 g-color-black g-font-weight-600 mb-3">
                   <span class="u-link-v5 g-color-black">DYONYX Cloud Starter Pack</span>
                 </h2>
                 <p class="g-color-gray-dark-v4 g-line-height-1_8">We've designed the DYONYX Cloud Starter Pack specifically to help IT Directors and personnel with issues like cost and security.  This package takes away the guesswork, doesn't require extra team members and saves you time.</p>
-                
+                <a class="btn btn-md u-btn-primary g-font-size-default text-uppercase g-rounded-50 g-py-12 g-px-30 mx-1 g-mb-20" href="http://go.dyonyx.com/cloudstarterpack?__hstc=258935445.7b6e1537812e75c362c07833c3d44ef4.1510291518076.1511203892377.1511206947252.5&__hssc=258935445.1.1511206947252&__hsfp=85180081">Get Started With DYONYX Cloud Starter PAck</a>
+
               </div>
             </article>
             <!-- End Blog Classic Blocks -->

@@ -73,7 +73,7 @@
             <div class="media mb-2">
               <i class="d-flex g-color-gray-dark-v5 mt-1 mr-3 icon-hotel-restaurant-235 u-line-icon-pro"></i>
               <div class="media-body">
-                <p class="g-color-gray-dark-v3 mb-2"> 1235 N. Loop West, Suite 1200<br />Houston, Texas 77008</p>
+                <p class="g-color-gray-dark-v3 mb-2"> 13430 Northwest Freeway, Suite 1000<br />Houston, TX 77040</p>
               </div>
             </div>
             <div class="media mb-2">

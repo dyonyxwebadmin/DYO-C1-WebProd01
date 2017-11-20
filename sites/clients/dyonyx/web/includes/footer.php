@@ -116,7 +116,7 @@
                       <i class="fa fa-map-marker"></i>
                     </span>
                   </div>
-                  <p class="mb-0">1235 N. Loop West, Suite 1200<br />Houston TX 77008</p>
+                  <p class="mb-0">13430 Northwest Freeway, Suite 1000<br />Houston, TX 77040</p>
                 </div>
                 <!-- End Location -->
 
