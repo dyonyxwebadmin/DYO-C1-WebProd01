@@ -133,7 +133,18 @@
                   <div class="media-body">
                     <h3 class="h5 g-color-black mb-20">Government Contracts</h3>
                     <div class="g-width-30 g-brd-bottom g-brd-primary g-my-15"></div>
-                    <p class="g-color-gray-dark-v4 g-mb-0">Federal GSA Schedule and CISV State Certified</p>
+                    <p class="g-color-gray-dark-v4 g-mb-0">
+                      Federal GSA Schedule,  
+                      CISV State Certified,
+                      GSA IT Schedule 70: PRIME, 
+                      GSA 508 Standards,             
+                      VA T4: SUB, 
+                      SeaPort-e: PRIME, 
+                      HHS CIO-SP3: SUB to PWC, 
+                      US Army First: SUB to Allen Corporation, 
+                      FBI ITSSS: Sub to CACI, 
+                      Texas DIR: DBITS
+                    </p>
                   </div>
                 </div>
               </div>

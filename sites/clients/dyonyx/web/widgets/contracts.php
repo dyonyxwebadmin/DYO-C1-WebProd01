@@ -98,12 +98,12 @@
             <div class="col-sm-6 col-lg-3">
               <!-- Partners -->
               <div class="g-brd-around g-bg-white text-center">
-                <span class="d-block u-block-hover g-color-black g-px-10 g-py-70">
-                  <img class="g-width-200" src="/img/contracts/none.png" alt="">
+                <a href="/industries/dir" class="d-block u-block-hover g-color-black g-px-10 g-py-70">
+                  <img class="g-width-200" src="/img/contracts/dir.png" alt="">
                   <span class="d-block u-block-hover__additional--partially-slide-up py-2">
-                    <span class="d-block h5 g-color-gray-dark-v5 mb-4"></span>
+                    <span class="d-block h5 g-color-gray-dark-v5 mb-4">Texas DIR: DBITS</span>
                   </span>
-                </span>
+                </a>
               </div>
               <!-- End Partners -->
             </div>

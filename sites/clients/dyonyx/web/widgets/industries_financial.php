@@ -12,7 +12,7 @@
                 <div class="d-inline-block g-width-35 g-height-2 g-bg-primary mb-2"></div>
               </div>
               
-              <p class="g-mb-20">DDYONYX has extensive experience in the financial services industry including work with numerous banks, credit agencies and the largest privately-held mortgage company in the U.S., Allied Home Mortgage Capital Corporation with offices in 49 states, Guam and the Virgin Islands. Our consultants provide a depth of experience in business impact analysis as well as regulatory compliance requirements that include: The USA Patriot Act, Sarbanes Oxley, GLBA Safe Guard Rule, HIPAA and others.</p>
+              <p class="g-mb-20">DYONYX has extensive experience in the financial services industry including work with numerous banks, credit agencies and the largest privately-held mortgage company in the U.S., Allied Home Mortgage Capital Corporation with offices in 49 states, Guam and the Virgin Islands. Our consultants provide a depth of experience in business impact analysis as well as regulatory compliance requirements that include: The USA Patriot Act, Sarbanes Oxley, GLBA Safe Guard Rule, HIPAA and others.</p>
 
               <div class="mb-2">
                 <h2 class="h3 g-color-black text-uppercase mb-2">Service Offerings</h2>

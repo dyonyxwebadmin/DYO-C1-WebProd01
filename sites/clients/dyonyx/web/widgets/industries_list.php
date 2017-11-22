@@ -24,7 +24,7 @@
                   <div class="media-body">
                     <h3 class="h5 g-color-primary mb-20">Government</h3>
                     <div class="d-inline-block g-width-35 g-height-2 g-bg-primary mb-2"></div>
-                    <p class="g-color-gray-dark-v4 g-mb-20">DYONYX leverage commercial best practices in providing the full complement of IT and management support services in the government sector. We have consistently received quality recognition awards for exceeding expectations from customers such ...</p>
+                    <p class="g-color-gray-dark-v4 g-mb-20">DYONYX leverages commercial best practices in providing the full complement of IT and management support services in the government sector. We have consistently received quality recognition awards for exceeding expectations from customers such ...</p>
                     <a class="btn btn-md u-btn-primary g-font-size-default g-rounded-50 g-py-10" href="/industries/government">Learn More</a>
                   </div>
                 </div>

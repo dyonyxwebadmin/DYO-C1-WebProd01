@@ -68,7 +68,7 @@
               <div class="g-bg-white g-pa-30">
                 <span class="d-block g-color-gray-dark-v4 g-font-weight-600 g-font-size-12 text-uppercase mb-2">20 November 2017</span>
                 <h2 class="h5 g-color-black g-font-weight-600 mb-3">
-                  <a class="u-link-v5 g-color-black g-color-primary--hover g-cursor-pointer" href="/news/article/website">DYONYX Opens New Headquarters in Houston, TX</a>
+                  <a class="u-link-v5 g-color-black g-color-primary--hover g-cursor-pointer" href="/news/article/new-headquarters">DYONYX Opens New Headquarters in Houston, TX</a>
                 </h2>
 
                 <p class="g-color-gray-dark-v4 g-line-height-1_8">Houston, TX- DYONYX, a leading innovative IT solutions provider, has relocated its corporate headquarters to the Granite Tower in Houston, TX in a redesigned workspace. The new headquarters address is:</p>
