@@ -61,6 +61,22 @@
       <div class="container g-py-100">
         <div class="masonry-grid row g-mb-70">
           <div class="masonry-grid-sizer col-sm-1"></div>
+
+          <div class="masonry-grid-item col-sm-6 g-mb-30">
+            <!-- Blog Classic Blocks -->
+            <article class="u-shadow-v11">
+              <div class="g-bg-white g-pa-30">
+                <span class="d-block g-color-gray-dark-v4 g-font-weight-600 g-font-size-12 text-uppercase mb-2">27 November 2017</span>
+                <h2 class="h5 g-color-black g-font-weight-600 mb-3">
+                  <a class="u-link-v5 g-color-black g-color-primary--hover g-cursor-pointer" href="/news/article/website">DYONYX Launches Streamlined, Redesigned Website </a>
+                </h2>
+                <p class="g-color-gray-dark-v4 g-line-height-1_8">DYONYX, LP, a Houston-based innovative IT solutions provider, redesigned the www.DYONYX.com website with dynamic content and a sleek, easily navigable design.</p>
+                <a class="g-font-size-13" href="/news/article/website">Read more...</a>
+
+              </div>
+            </article>
+            <!-- End Blog Classic Blocks -->
+          </div>
           
           <div class="masonry-grid-item col-sm-6 g-mb-30">
             <!-- Blog Classic Blocks -->
@@ -81,22 +97,6 @@
 
 
                 <a class="g-font-size-13" href="/news/article/new-headquarters">Read more...</a>
-
-              </div>
-            </article>
-            <!-- End Blog Classic Blocks -->
-          </div>
-
-          <div class="masonry-grid-item col-sm-6 g-mb-30">
-            <!-- Blog Classic Blocks -->
-            <article class="u-shadow-v11">
-              <div class="g-bg-white g-pa-30">
-                <span class="d-block g-color-gray-dark-v4 g-font-weight-600 g-font-size-12 text-uppercase mb-2">13 November 2017</span>
-                <h2 class="h5 g-color-black g-font-weight-600 mb-3">
-                  <a class="u-link-v5 g-color-black g-color-primary--hover g-cursor-pointer" href="/news/article/website">DYONYX Launches Streamlined, Redesigned Website </a>
-                </h2>
-                <p class="g-color-gray-dark-v4 g-line-height-1_8">DYONYX, LP, a Houston-based innovative IT solutions provider, redesigned the www.DYONYX.com website with dynamic content and a sleek, easily navigable design.</p>
-                <a class="g-font-size-13" href="/news/article/website">Read more...</a>
 
               </div>
             </article>
@@ -137,6 +137,23 @@
                 </h2>
                 <p class="g-color-gray-dark-v4 g-line-height-1_8">DYONYX, a leading innovative IT solutions provider headquartered in Houston, TX, has been named one of the 2017 Top 10 IT Managed Services Companies by the Houston Business Journal.</p>
                 <a class="g-font-size-13" href="/news/article/houston-top-ten">Read more...</a>
+
+              </div>
+            </article>
+            <!-- End Blog Classic Blocks -->
+          </div>
+
+          <div class="masonry-grid-item col-sm-6 g-mb-30">
+            <!-- Blog Classic Blocks -->
+            <article class="u-shadow-v11">
+              <div class="g-bg-white g-pa-30">
+                <span class="d-block g-color-gray-dark-v4 g-font-weight-600 g-font-size-12 text-uppercase mb-2">19 September 2017</span>
+                <h2 class="h5 g-color-black g-font-weight-600 mb-3">
+                  <a class="u-link-v5 g-color-black g-color-primary--hover g-cursor-pointer" href="/news/article/beyond-worthless-metrics-part-one">Beyond Worthless Metrics…Adding Value to the Information Security Program </a>
+                </h2>
+                <p class="g-color-gray-dark-v4 g-line-height-1_8">Paperwork – the bane of information security; pages and pages of documentation to complete that is time-consuming and not always helpful. We all have to do it; however, Information Security Programs have, over the years, become more about checking the proverbial box that states, “have anti-virus installed,” than taking the additional steps to ensure our systems are secure beyond just anti-virus. Consider: it is not unimaginable why so many IT departments were caught unprepared when the Petya virus hit-- whose arrival, by the way--was anticipated for months in advance.</p>
+                <a class="g-font-size-13" href="/news/article/beyond-worthless-metrics-part-one">Read Part 1</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                <a class="g-font-size-13" href="/news/article/beyond-worthless-metrics-part-two">Read Part 2</a>
 
               </div>
             </article>
