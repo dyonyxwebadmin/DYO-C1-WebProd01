@@ -48,7 +48,7 @@
         <div class="row justify-content-center">
           <div class="col-lg-9">
             <div class="g-mb-60">
-              <h2 class="g-color-black g-font-weight-600 text-center g-mb-30">DYONYX Sponsoring 4th Annual SIM Houston CIO Charity Golf Tournament</h2>
+              <h1 class="g-color-black g-font-weight-600 text-center g-mb-30">DYONYX Sponsoring 4th Annual SIM Houston CIO Charity Golf Tournament</h1>
             </div>
 
             <h4 class="g-mb-30">Event on April 22nd to Benefit Houston STEM-Based Education & Non-profit organizations</h4>

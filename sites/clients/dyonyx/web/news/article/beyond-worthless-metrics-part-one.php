@@ -48,7 +48,7 @@
         <div class="row justify-content-center">
           <div class="col-lg-9">
             <div class="g-mb-60">
-              <h2 class="g-color-black g-font-weight-600 text-center g-mb-30">Beyond Worthless Metrics…<br />Adding Value to the Information Security Program</h2>
+              <h1 class="g-color-black g-font-weight-600 text-center g-mb-30">Beyond Worthless Metrics…<br />Adding Value to the Information Security Program</h1>
             </div>
 
 

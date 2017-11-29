@@ -8,7 +8,7 @@
 
         <!-- Header Content -->
         <div class="container g-color-white text-center g-py-200">
-          <h2 class="g-font-weight-600 g-font-size-55 text-uppercase">Innovative IT Managed<br />Services Provider</h2>
+          <h1 class="g-font-weight-600 g-font-size-55 text-uppercase">Innovative IT Managed<br />Services Provider</h1>
           <h3 class="h2 g-font-weight-300 mb-0">Helping you solve multiple problems<br />through a single, flexible delivery system</h3>
           <a href="/solutions" class="btn btn-xl u-btn-primary text-uppercase g-font-weight-600 g-font-size-12 rounded g-mt-30 g-mr-15 g-mb-15 g-mb-0--sm">Learn More</a>
               

@@ -47,7 +47,7 @@
         <div class="row justify-content-center">
           <div class="col-lg-9">
             <div class="g-mb-60">
-              <h2 class="g-color-black g-font-weight-600 text-center g-mb-30">DYONYX Launches Streamlined, Redesigned Website</h2>
+              <h1 class="g-color-black g-font-weight-600 text-center g-mb-30">DYONYX Launches Streamlined, Redesigned Website</h1>
             </div>
 
             <p><strong>Houston, TX</strong> &mdash; DYONYX, LP, a Houston-based innovative IT solutions provider, redesigned the www.DYONYX.com website with dynamic content and a sleek, easily navigable design.

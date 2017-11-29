@@ -22,7 +22,7 @@
 
         <!-- Header Content -->
         <div class="container g-color-white text-center g-py-50">
-          <h3 class="h2 dyonyx g-font-weight-300 mb-0">GSA 508 Standards</h3>
+          <h1 class="h2 dyonyx g-font-weight-300 mb-0">GSA 508 Standards</h1>
         </div>
         <!-- End Header Content -->
       </section>

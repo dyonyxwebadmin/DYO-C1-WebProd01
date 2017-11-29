@@ -19,7 +19,7 @@
         <div class="container">
           <div class="d-sm-flex text-center">
             <div class="align-self-center">
-              <h2 class="h3 g-font-weight-300 w-100 g-mb-10 g-mb-0--md">Policies</h2>
+              <h1 class="h3 g-font-weight-300 w-100 g-mb-10 g-mb-0--md">Policies</h1>
             </div>
 
             <div class="align-self-center ml-auto">

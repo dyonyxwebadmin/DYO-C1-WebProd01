@@ -23,7 +23,7 @@
         <!-- Header Content -->
         <div class="container g-color-white text-center g-py-200">
           <h2 class="g-font-weight-600 g-font-size-55 text-uppercase">DYONYX</h2>
-          <h3 class="h2 dyonyx g-font-weight-300 mb-0">Innovative IT Solutions Provider</h3>
+          <h1 class="h2 dyonyx g-font-weight-300 mb-0">Innovative IT Solutions Provider</h1>
         </div>
         <!-- End Header Content -->
       </section>
