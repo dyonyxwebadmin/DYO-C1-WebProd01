@@ -3,6 +3,7 @@
   <head>
     <!-- Title -->
     <title>DYONYX | Texas DIR: DBITS</title>
+    <meta name="description" content="">
 
       <?php includes("head") ?>
 

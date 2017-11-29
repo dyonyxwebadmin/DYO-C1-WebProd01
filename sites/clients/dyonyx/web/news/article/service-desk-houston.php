@@ -3,6 +3,7 @@
   <head>
     <!-- Title -->
     <title>DYONYX | Awarded Service Desk Contract by Leading City of Houston Agency</title>
+    <meta name="description" content="">
 
     <?php includes("head") ?>
   </head>

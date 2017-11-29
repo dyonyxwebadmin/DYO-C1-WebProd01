@@ -3,6 +3,7 @@
   <head>
     <!-- Title -->
     <title>DYONYX | Veterans Affairs Total Technology Transformation</title>
+    <meta name="description" content="">
 
       <?php includes("head") ?>
 

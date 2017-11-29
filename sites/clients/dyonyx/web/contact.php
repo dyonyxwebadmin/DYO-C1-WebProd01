@@ -3,6 +3,7 @@
   <head>
     <!-- Title -->
     <title>DYONYX | Contact</title>
+    <meta name="description" content="">
 
       <?php includes("head") ?>
 

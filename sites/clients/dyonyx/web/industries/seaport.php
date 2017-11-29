@@ -3,6 +3,7 @@
   <head>
     <!-- Title -->
     <title>DYONYX | SeaPort-e</title>
+    <meta name="description" content="">
 
       <?php includes("head") ?>
 

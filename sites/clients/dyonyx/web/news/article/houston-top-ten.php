@@ -3,6 +3,7 @@
   <head>
     <!-- Title -->
     <title>DYONYX | Houston’s 2017 Top 10 IT Managed Services Companies</title>
+    <meta name="description" content="">
 
     <?php includes("head") ?>
   </head>

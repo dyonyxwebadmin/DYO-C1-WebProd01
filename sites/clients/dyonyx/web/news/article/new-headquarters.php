@@ -3,6 +3,7 @@
   <head>
     <!-- Title -->
     <title>DYONYX | Opens New Headquarters in Houston, TX</title>
+    <meta name="description" content="">
 
     <?php includes("head") ?>
   </head>

@@ -3,6 +3,7 @@
   <head>
     <!-- Title -->
     <title>DYONYX | Army First</title>
+    <meta name="description" content="">
 
       <?php includes("head") ?>
 

@@ -3,6 +3,7 @@
   <head>
     <!-- Title -->
     <title>DYONYX | Beyond Worthless Metrics - Part 2</title>
+    <meta name="description" content="">
 
     <?php includes("head") ?>
   </head>

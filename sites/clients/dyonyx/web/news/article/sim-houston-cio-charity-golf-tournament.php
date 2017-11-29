@@ -3,6 +3,7 @@
   <head>
     <!-- Title -->
     <title>DYONYX | Charity Golf Tournament</title>
+    <meta name="description" content="">
 
     <?php includes("head") ?>
   </head>

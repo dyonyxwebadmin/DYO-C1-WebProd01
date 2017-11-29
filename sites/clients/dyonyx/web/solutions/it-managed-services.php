@@ -3,6 +3,7 @@
   <head>
     <!-- Title -->
     <title>DYONYX | IT Managed Services</title>
+    <meta name="description" content="">
 
       <?php includes("head") ?>
 

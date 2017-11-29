@@ -3,6 +3,7 @@
   <head>
     <!-- Title -->
     <title>DYONYX | HHS NITAAC CIO-SP3</title>
+    <meta name="description" content="">
 
       <?php includes("head") ?>
 

@@ -3,6 +3,7 @@
   <head>
     <!-- Title -->
     <title>DYONYX | Four Contracts</title>
+    <meta name="description" content="">
 
     <?php includes("head") ?>
   </head>

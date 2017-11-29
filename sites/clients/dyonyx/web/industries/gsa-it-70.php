@@ -3,6 +3,7 @@
   <head>
     <!-- Title -->
     <title>DYONYX | GSA IT Schedule 70</title>
+    <meta name="description" content="">
 
       <?php includes("head") ?>
 
@@ -61,7 +62,7 @@
               </ul>
             
 
-              <a class="btn btn-md u-btn-primary g-font-size-default g-rounded-50 g-py-10" href="https://www.gsaadvantage.gov/ref_text/GS35F0320N/0QPLHK.3FETDB_GS-35F-0320N_GS35F0320N.PDF" target="_blank">Pricing Schedule</a>
+              <a class="btn btn-md u-btn-primary g-font-size-default g-rounded-50 g-py-10" href="https://www.gsaadvantage.gov/ref_text/GS35F0320N/0SBIRO.3KHJ4U_GS-35F-0320N_GS35F0320N.PDF" target="_blank">Pricing Schedule</a>
               <a class="btn btn-md u-btn-primary g-font-size-default g-rounded-50 g-py-10" href="/contact">Call Us Today</a>
 
         </div>

@@ -3,6 +3,7 @@
   <head>
     <!-- Title -->
     <title>DYONYX | Houston Based Packaging Company</title>
+    <meta name="description" content="">
 
     <?php includes("head") ?>
   </head>

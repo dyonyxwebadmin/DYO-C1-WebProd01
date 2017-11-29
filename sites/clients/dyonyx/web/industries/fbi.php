@@ -3,6 +3,7 @@
   <head>
     <!-- Title -->
     <title>DYONYX | FBI IT Triple S</title>
+    <meta name="description" content="">
 
       <?php includes("head") ?>
 
