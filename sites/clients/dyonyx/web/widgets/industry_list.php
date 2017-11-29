@@ -21,7 +21,7 @@
           </div>
 
           <div class="col-lg-6 flex-lg-first g-mb-60">
-            <img src="/img/industries.png">
+            <img src="/img/industries.png" alt="Industries">
           </div>
         </div>
       </section>
