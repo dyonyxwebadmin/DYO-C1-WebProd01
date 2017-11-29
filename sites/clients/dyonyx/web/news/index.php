@@ -115,10 +115,10 @@
               <div class="g-bg-white g-pa-30">
                 <span class="d-block g-color-gray-dark-v4 g-font-weight-600 g-font-size-12 text-uppercase mb-2">16 October 2017</span>
                 <h2 class="h5 g-color-black g-font-weight-600 mb-3">
-                  <a href="http://go.dyonyx.com/cloudstarterpack?__hstc=258935445.7b6e1537812e75c362c07833c3d44ef4.1510291518076.1511203892377.1511206947252.5&__hssc=258935445.1.1511206947252&__hsfp=85180081" class="u-link-v5 g-color-black">DYONYX Cloud Starter Pack</a>
+                  <a href="http://go.dyonyx.com/cloudstarterpack" class="u-link-v5 g-color-black">DYONYX Cloud Starter Pack</a>
                 </h2>
                 <p class="g-color-gray-dark-v4 g-line-height-1_8">We've designed the DYONYX Cloud Starter Pack specifically to help IT Directors and personnel with issues like cost and security.  This package takes away the guesswork, doesn't require extra team members and saves you time.</p>
-                <a class="btn btn-md u-btn-primary g-font-size-default text-uppercase g-rounded-50 g-py-12 g-px-30 mx-1 g-mb-20" href="http://go.dyonyx.com/cloudstarterpack?__hstc=258935445.7b6e1537812e75c362c07833c3d44ef4.1510291518076.1511203892377.1511206947252.5&__hssc=258935445.1.1511206947252&__hsfp=85180081">Get Started With DYONYX Cloud Starter PAck</a>
+                <a class="btn btn-md u-btn-primary g-font-size-default text-uppercase g-rounded-50 g-py-12 g-px-30 mx-1 g-mb-20" href="http://go.dyonyx.com/cloudstarterpack">Get Started With DYONYX Cloud Starter PAck</a>
 
               </div>
             </article>
