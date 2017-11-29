@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <!-- Title -->
-    <title>DYONYX | Beyond Worthless Metrics - Part 1</title>
+    <title>DYONYX | Beyond Worthless Metrics - Part 2</title>
 
     <?php includes("head") ?>
   </head>

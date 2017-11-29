@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <!-- Title -->
-    <title>DYONYX | Opens New Headquarters in Houston, TX</title>
+    <title>DYONYX | Awarded Service Desk Contract by Leading City of Houston Agency</title>
 
     <?php includes("head") ?>
   </head>
