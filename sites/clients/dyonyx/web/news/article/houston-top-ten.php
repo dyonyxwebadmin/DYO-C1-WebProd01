@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <!-- Title -->
-    <title>DYONYX | Innovative IT Managed Services Provider</title>
+    <title>DYONYX | Houston’s 2017 Top 10 IT Managed Services Companies</title>
 
     <?php includes("head") ?>
   </head>

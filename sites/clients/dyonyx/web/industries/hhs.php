@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <!-- Title -->
-    <title>DYONYX</title>
+    <title>DYONYX | HHS NITAAC CIO-SP3</title>
 
       <?php includes("head") ?>
 

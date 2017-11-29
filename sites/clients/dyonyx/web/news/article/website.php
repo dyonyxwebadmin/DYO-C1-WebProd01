@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <!-- Title -->
-    <title>DYONYX | Innovative IT Managed Services Provider</title>
+    <title>DYONYX | Streamlined, Redesigned Website</title>
 
     <?php includes("head") ?>
   </head>
@@ -33,7 +33,7 @@
                   <i class="g-color-gray-light-v2 g-ml-5">/</i>
                 </li>
                 <li class="list-inline-item g-color-primary">
-                  <span>After the Flood</span>
+                  <span>Streamlined, Redesigned Website</span>
                 </li>
               </ul>
             </div>

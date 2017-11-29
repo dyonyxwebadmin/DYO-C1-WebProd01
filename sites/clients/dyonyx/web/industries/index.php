@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <!-- Title -->
-    <title>DYONYX</title>
+    <title>DYONYX | Industries We Serve</title>
 
       <?php includes("head") ?>
 

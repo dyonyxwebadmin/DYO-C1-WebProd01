@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <!-- Title -->
-    <title>DYONYX</title>
+    <title>DYONYX | Cloud Services</title>
 
       <?php includes("head") ?>
 

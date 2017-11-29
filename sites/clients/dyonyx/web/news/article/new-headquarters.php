@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <!-- Title -->
-    <title>DYONYX | Innovative IT Managed Services Provider</title>
+    <title>DYONYX | Opens New Headquarters in Houston, TX</title>
 
     <?php includes("head") ?>
   </head>

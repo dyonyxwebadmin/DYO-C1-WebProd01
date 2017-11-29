@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <!-- Title -->
-    <title>DYONYX</title>
+    <title>DYONYX | GSA IT Schedule 70</title>
 
       <?php includes("head") ?>
 

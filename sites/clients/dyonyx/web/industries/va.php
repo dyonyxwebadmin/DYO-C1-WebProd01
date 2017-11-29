@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <!-- Title -->
-    <title>DYONYX</title>
+    <title>DYONYX | Veterans Affairs Total Technology Transformation</title>
 
       <?php includes("head") ?>
 

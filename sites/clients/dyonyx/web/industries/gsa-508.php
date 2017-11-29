@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <!-- Title -->
-    <title>DYONYX</title>
+    <title>DYONYX | GSA 508 Standards</title>
 
       <?php includes("head") ?>
 

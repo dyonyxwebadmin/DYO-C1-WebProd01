@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <!-- Title -->
-    <title>DYONYX | Innovative IT Managed Services Provider</title>
+    <title>DYONYX | Opens New Headquarters in Houston, TX</title>
 
     <?php includes("head") ?>
   </head>
@@ -33,7 +33,7 @@
                   <i class="g-color-gray-light-v2 g-ml-5">/</i>
                 </li>
                 <li class="list-inline-item g-color-primary">
-                  <span>Four Contracts</span>
+                  <span>ç</span>
                 </li>
               </ul>
             </div>

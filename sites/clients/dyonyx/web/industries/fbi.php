@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <!-- Title -->
-    <title>DYONYX</title>
+    <title>DYONYX | FBI IT Triple S</title>
 
       <?php includes("head") ?>
 
