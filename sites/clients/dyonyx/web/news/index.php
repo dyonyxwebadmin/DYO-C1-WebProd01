@@ -64,6 +64,26 @@
           <div class="masonry-grid-sizer col-sm-1"></div>
 
           <div class="masonry-grid-item col-sm-6 g-mb-30">
+
+            
+            <!-- Blog Classic Blocks -->
+            <article class="u-shadow-v11">
+              <div class="g-bg-white g-pa-30">
+                <span class="d-block g-color-gray-dark-v4 g-font-weight-600 g-font-size-12 text-uppercase mb-2">27 November 2017</span>
+                <h2 class="h5 g-color-black g-font-weight-600 mb-3">
+                  <a class="u-link-v5 g-color-black g-color-primary--hover g-cursor-pointer" href="/news/article/top-10-smart-solutions">DYONYX Featured as a Top 10 Smart Solution for Government by Government CIO Outlook Magazine </a>
+                </h2>
+                <p class="g-color-gray-dark-v4 g-line-height-1_8">Houston, TX - DYONYX, a leading innovative IT solutions provider based in Houston, TX, has been featured by Government CIO Outlook Magazine as one of the Top 10 Smart Solutions for Government in 2017. </p>
+                <a class="g-font-size-13" href="/news/article/top-10-smart-solutions">Read more...</a>
+
+              </div>
+            </article>
+            <!-- End Blog Classic Blocks -->
+          </div>
+
+            
+          <div class="masonry-grid-item col-sm-6 g-mb-30">
+
             <!-- Blog Classic Blocks -->
             <article class="u-shadow-v11">
               <div class="g-bg-white g-pa-30">
