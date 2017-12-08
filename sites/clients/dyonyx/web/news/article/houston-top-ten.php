@@ -30,7 +30,7 @@
                   <i class="g-color-gray-light-v2 g-ml-5">/</i>
                 </li>
                 <li class="list-inline-item g-mr-5">
-                  <a class="u-link-v5 g-color-main g-color-primary--hover" href="/blog">Blog</a>
+                  <a class="u-link-v5 g-color-main g-color-primary--hover" href="/news">Mews</a>
                   <i class="g-color-gray-light-v2 g-ml-5">/</i>
                 </li>
                 <li class="list-inline-item g-color-primary">
