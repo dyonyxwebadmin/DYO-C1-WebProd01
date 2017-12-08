@@ -27,27 +27,27 @@
 
               <article>
                 <h3 class="h6 g-mb-2">
-                  <a class="g-color-white-opacity-0_8 g-color-white--hover" href="/news/article/houston-top-ten">DYONYX Named One of Houston’s 2017 Top 10 IT Managed Services Companies </a>
+                  <a class="g-color-white-opacity-0_8 g-color-white--hover" href="/news/article/top-10-smart-solutions">DYONYX Featured as a Top 10 Smart Solution for Government by Government CIO Outlook Magazine </a>
                 </h3>
-                <div class="small g-color-white-opacity-0_6">12 OCTOBER 2017</div>
+                <div class="small g-color-white-opacity-0_6">8 DECEMBER 2017</div>
               </article>
 
               <hr class="g-brd-white-opacity-0_1 g-my-10">
               
               <article>
                 <h3 class="h6 g-mb-2">
-                  <a class="g-color-white-opacity-0_8 g-color-white--hover" href="/news/article/two-new-contracts">DYONYX Announces Two New Contract Wins</a>
+                  <a class="g-color-white-opacity-0_8 g-color-white--hover" href="/news/article/website">DYONYX Launches Streamlined, Redesigned Website </a>
                 </h3>
-                <div class="small g-color-white-opacity-0_6">15 SEPTEMBER 2017</div>
+                <div class="small g-color-white-opacity-0_6">27 NOVEMBER 2017</div>
               </article>
 
               <hr class="g-brd-white-opacity-0_1 g-my-10">
 
               <article>
                 <h3 class="h6 g-mb-2">
-                  <a class="g-color-white-opacity-0_8 g-color-white--hover" href="/news/article/after-the-flood">After the Flood</a>
+                  <a class="g-color-white-opacity-0_8 g-color-white--hover" href="/news/article/new-headquarters">DYONYX Opens New Headquarters in Houston, TX</a>
                 </h3>
-                <div class="small g-color-white-opacity-0_6">01 SEPTEMBER 2017</div>
+                <div class="small g-color-white-opacity-0_6">20 NOVEMBER 2017</div>
               </article>
 
             </div>

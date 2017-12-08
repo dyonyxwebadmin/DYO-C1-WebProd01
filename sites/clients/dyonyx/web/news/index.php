@@ -69,7 +69,7 @@
             <!-- Blog Classic Blocks -->
             <article class="u-shadow-v11">
               <div class="g-bg-white g-pa-30">
-                <span class="d-block g-color-gray-dark-v4 g-font-weight-600 g-font-size-12 text-uppercase mb-2">27 November 2017</span>
+                <span class="d-block g-color-gray-dark-v4 g-font-weight-600 g-font-size-12 text-uppercase mb-2">8 December 2017</span>
                 <h2 class="h5 g-color-black g-font-weight-600 mb-3">
                   <a class="u-link-v5 g-color-black g-color-primary--hover g-cursor-pointer" href="/news/article/top-10-smart-solutions">DYONYX Featured as a Top 10 Smart Solution for Government by Government CIO Outlook Magazine </a>
                 </h2>
