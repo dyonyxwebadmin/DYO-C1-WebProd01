@@ -68,6 +68,25 @@
             
             <!-- Blog Classic Blocks -->
             <article class="u-shadow-v11">
+              <img class="img-fluid w-100" src="/img/blog/delta-sigma-pi.jpg" alt="Houston Tech Summit">
+              <div class="g-bg-white g-pa-30">
+                <span class="d-block g-color-gray-dark-v4 g-font-weight-600 g-font-size-12 text-uppercase mb-2">29 January 2018</span>
+                <h2 class="h5 g-color-black g-font-weight-600 mb-3">
+                  <a class="u-link-v5 g-color-black g-color-primary--hover g-cursor-pointer" href="/news/article/delta-simga-pi-keynote-speaker">DYONYX CEO Selected as Delta Sigma Pi Keynote Speaker</a>
+                </h2>
+                <p class="g-color-gray-dark-v4 g-line-height-1_8">The CEO and Co-founder of DYONYX, Chuck Orrico, was selected as the key note speaker for the Delta Sigma Pi Professional Business Fraternity dinner and reception.Mr. Orrico spoke to the members of the fraternity about starting and managing a growth business, how to manage during good and challenging times, effective team building, and recommended readings to further their knowledge in business. He also presented the predictive future of each business major and suggested skills the students should be proficient in to succeed in that certain field. </p>
+                <a class="g-font-size-13" href="/news/article/delta-simga-pi-keynote-speaker">Read more...</a>
+
+              </div>
+            </article>
+            <!-- End Blog Classic Blocks -->
+          </div>
+
+          <div class="masonry-grid-item col-sm-6 g-mb-30">
+
+            
+            <!-- Blog Classic Blocks -->
+            <article class="u-shadow-v11">
               <div class="g-bg-white g-pa-30">
                 <span class="d-block g-color-gray-dark-v4 g-font-weight-600 g-font-size-12 text-uppercase mb-2">7 December 2017</span>
                 <h2 class="h5 g-color-black g-font-weight-600 mb-3">
