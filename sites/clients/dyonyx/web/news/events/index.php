@@ -68,6 +68,43 @@
           <div class="masonry-grid-item col-sm-6 g-mb-30">
             <!-- Blog Classic Blocks -->
             <article class="u-shadow-v11">
+              <img class="img-fluid w-100" src="/img/blog/texas-tech-summit.png" alt="Texas Technology Summit">
+              <div class="g-bg-white g-pa-30">
+                <span class="d-block g-color-gray-dark-v4 g-font-weight-600 g-font-size-12 text-uppercase mb-2">07 February 2018</span>
+                <h2 class="h5 g-color-black g-font-weight-600 mb-3">
+                  <a class="u-link-v5 g-color-black g-color-primary--hover g-cursor-pointer" href="http://machaoncorp.com/reg/?ee=37" target="_blank">Texas Technology Summit</a>
+                </h2>
+                <p class="g-color-gray-dark-v4 g-line-height-1_8">DYONYX is attending the Texas Technology Summit for the fourth year  in a row. The 9th annual Texas Technology Summit is coming back to the Houston Texas NRG Center February 7, 2018.
+
+ 
+
+The theme for 2018 is "Expanding the Frontiers of IT and Security". Attend The Texas Technology Summit to get the right tools and make vital connections to best prepare your company for the broad spectrum of ever-changing technology trends. Use code “DYONYX” for complimentary registration.</p>
+                <a class="g-font-size-13" href="http://machaoncorp.com/reg/?ee=37" target="_blank">View Event Details</a>
+
+
+                <hr class="g-my-20">
+
+                <ul class="list-inline d-flex justify-content-between mb-0">
+                  <li class="list-inline-item g-color-gray-dark-v4">
+                    <a class="d-inline-block g-color-gray-dark-v4 g-font-size-13 g-cursor-pointer g-text-underline--none--hover" href="#">
+                      <i class="align-middle g-font-size-default mr-1 icon-real-estate-066 u-line-icon-pro"></i>
+                      NRG Center
+                    </a>
+                  </li>
+                  <li class="list-inline-item g-color-gray-dark-v4">
+                    <i class="align-middle g-color-primary g-font-size-default mr-1 icon-link"></i>
+                    <a class="d-inline-block g-color-gray-dark-v4 g-font-size-13 g-cursor-pointer g-text-underline--none--hover" href="http://machaoncorp.com/reg/?ee=37" target="_blank">ww.houston-summit.com</a>
+                  </li>
+                </ul>
+
+              </div>
+            </article>
+            <!-- End Blog Classic Blocks -->
+          </div>
+
+          <div class="masonry-grid-item col-sm-6 g-mb-30">
+            <!-- Blog Classic Blocks -->
+            <article class="u-shadow-v11">
               <img class="img-fluid w-100" src="/img/blog/houston-tech-summit.png" alt="Houston Tech Summit">
               <div class="g-bg-white g-pa-30">
                 <span class="d-block g-color-gray-dark-v4 g-font-weight-600 g-font-size-12 text-uppercase mb-2">Friday, 08 December 2017</span>
