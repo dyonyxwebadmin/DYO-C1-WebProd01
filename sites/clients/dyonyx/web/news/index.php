@@ -68,6 +68,24 @@
             
             <!-- Blog Classic Blocks -->
             <article class="u-shadow-v11">
+              <div class="g-bg-white g-pa-30">
+                <span class="d-block g-color-gray-dark-v4 g-font-weight-600 g-font-size-12 text-uppercase mb-2">31 January 2018</span>
+                <h2 class="h5 g-color-black g-font-weight-600 mb-3">
+                  <a class="u-link-v5 g-color-black g-color-primary--hover g-cursor-pointer" href="/news/article/dnew-vice-president-of-strategic-accounts">DYONYX Hires Former Hoover Ferguson Executive as Vice President of Strategic Accounts and Infrastructure Services</a>
+                </h2>
+                <p class="g-color-gray-dark-v4 g-line-height-1_8">DYONYX L.P. a Houston based IT Outsourcing and Managed Services firm, announced today the appointment of Paula Stuart as Vice President of Strategic Accounts and Infrastructure Services, effective February 12, 2018. Ms. Stuart joins DYONYX from Hoover Ferguson where she is currently Vice President, Information Technology responsible for the planning, implementation and support of IT for 70 locations around the world. </p>
+                <a class="g-font-size-13" href="/news/article/new-vice-president-of-strategic-accounts">Read more...</a>
+
+              </div>
+            </article>
+            <!-- End Blog Classic Blocks -->
+          </div>
+
+          <div class="masonry-grid-item col-sm-6 g-mb-30">
+
+            
+            <!-- Blog Classic Blocks -->
+            <article class="u-shadow-v11">
               <img class="img-fluid w-100" src="/img/blog/delta-sigma-pi.jpg" alt="Houston Tech Summit">
               <div class="g-bg-white g-pa-30">
                 <span class="d-block g-color-gray-dark-v4 g-font-weight-600 g-font-size-12 text-uppercase mb-2">29 January 2018</span>
