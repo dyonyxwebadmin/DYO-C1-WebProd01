@@ -91,8 +91,9 @@
                     </button>
                       <h3>Chuck Orrico</h3>
                       <h5 class="g-mb-20">President & CEO</h5>
-                      <p>As President and CEO, Chuck is responsible for the overall financial and operational performance of the company, strategic planning, risk management and emerging markets. Chuck has more than 35 years of experience in helping clients develop business solutions through IT strategic planning, information management and technology investment. Prior to co-founding DYONYX in 1996, Chuck worked 12 years at Hays Information Management, a multi-billion dollar information management company with global operations. There, he held a variety of senior management leadership positions in sales, operations, technology and finance.</p>
-                      <p>Today, Chuck's entrepreneurial spirit and keen business acumen have helped DYONYX maintain its focus on quality, which has resulted in improved business operations for its clients. Chuck attended the University of St. Thomas in Houston, Texas on a four year golf scholarship and received a bachelor's degree in business administration in 1984. As a firm believer in community service, Chuck supports critically important causes such as Texas Children's Hospital, Children’s Advocacy Center of Houston (CAC), Boys and Girls Country, Love 146, Salem Ministry Missions, College Golf Fellowship, and served as the Past President of the board of directors for The Children's Advocacy Centers of Texas www.cactx.org</p>
+                      <p>As CEO, Chuck is responsible for the overall financial and operational performance of the company, strategic planning, risk management and emerging markets. Chuck has more than 35 years of experience in helping clients develop business solutions through IT strategic planning, information management and technology investment. Prior to co-founding DYONYX in 1996, Chuck worked 12 years at Hays Information Management, a multi-billion dollar information management company with global operations. There, he held a variety of senior management leadership positions in sales, operations, technology and finance.</p>
+
+                      <p>Today, Chuck's entrepreneurial spirit and keen business acumen have helped DYONYX maintain its focus on quality, which has resulted in improved business operations for its clients. Chuck attended the University of St. Thomas in Houston, Texas on a four year golf scholarship and received a bachelor's degree in business administration in 1984. As a firm believer in community service, Chuck supports critically important causes such as Texas Children's Hospital, Children’s Advocacy Center of Houston (CAC), Boys and Girls Country, Love 146, Salem Ministry Missions, College Golf Fellowship, and served as the Past President of the board of directors for The Children's Advocacy Centers of Texas <a href="http://www.cactx.org" target="_blank">www.cactx.org</a></p>
                    </div>
                 </div>
               </div>
@@ -133,7 +134,7 @@
                     </button>
                     <h3>Patrick Clary</h3>
                     <h5 class="g-mb-20">Executive Vice President and Chief Operations Officer</h5>
-                    <p>Patrick Clary is Executive Vice President and Chief Operations Officer for DYONYX. Patrick's focus is financial performance, operations strategy and policies, employee alignment with corporate goals, and operational excellence. Prior to joining DYONYX, Patrick was involved in the start-up and management of two technology services firms and spent 10 years with Certified Associates, a national recruitment and staffing management firm. Patrick holds a BS in Management with a minor in Marketing from Clemson University.</p>
+                    <p>Patrick Clary is President and Chief Operating Officer of DYONYX. Patrick has successfully served as Executive Vice President and COO for the company for the last 4 years and will continue to manage the executive management team and have ultimate responsibility for the overall operational performance of DYONYX. Prior to joining DYONYX, Patrick was involved in the start-up and management of two technology services firms and spent 10 years with Certified Associates, a national recruitment and staffing management firm. Patrick holds a BS in Management with a minor in Marketing from Clemson University.</p>
                    </div>
                 </div>
               </div>
@@ -513,7 +514,6 @@
           </div>
 
 
-          <div class="col-lg-3 col-sm-6 g-mb-30"></div>
 
           <div class="col-lg-3 col-sm-6 g-mb-30">
             <!-- Team Block -->
@@ -590,6 +590,48 @@
                     <h3>Frank Morales</h3>
                     <h5 class="g-mb-20">Program Manager, Austin</h5>
                     <p>Frank holds a Bachelor of Science in Computer Science, Master Certificate in Management from Tulane University, and a Master of Business Administration (MBA) from The University of Texas- El Paso.  Frank has over 16 years of experience leading large IT projects across many industries, such as Banking, Construction, Manufacturing, Healthcare, Public Utilities, and Oil & Gas.  Frank joined DYONYX in 2007 and currently serves as the Program Manager in Austin. </p>
+                   </div>
+                </div>
+              </div>
+            </div>
+            <!-- End Demo modal window -->
+                              
+          </div>
+
+          
+          <div class="col-lg-3 col-sm-6 g-mb-30">
+            <!-- Team Block -->
+            <figure class="u-block-hover">
+              <!-- Figure Image -->
+              <a href="#frank" data-toggle="modal">
+                <img class="w-100" src="/img/team/paula.jpg" alt="Frank Morales">
+                <!-- End Figure Image-->
+
+                <!-- Figure Caption -->
+                <figcaption class="u-block-hover__additional--v1 u-block-hover__additional--slide-down g-bg-pink-opacity-0_9 g-pa-30">
+                  <div class="u-block-hover__additional--v1 g-flex-middle">
+                    <div class="text-center g-flex-middle-item">
+                      <h4 class="h4 g-color-white g-mb-5">Paula Stuart</h4>
+                      <em class="d-block g-font-style-normal g-font-size-11 g-font-weight-600 text-uppercase g-color-white-opacity-0_9">Vice President of Strategic Accounts and Infrastructure Service, Austin</em>
+                    </div>
+                  </div>
+                </figcaption>
+                <!-- End Figure Caption -->
+              </a>
+            </figure>
+            <!-- End Team Block -->
+
+            <!-- Demo modal window -->
+            <div tabindex="-1" class="modal fade frank" id="frank" role="dialog" aria-labelledby="frank">
+              <div class="modal-dialog modal-md" role="document">
+                <div class="modal-content">
+                    <div class="modal-body">
+                    <button type="button" class="close" data-dismiss="modal">
+                      <i class="hs-icon hs-icon-close"></i>
+                    </button>
+                    <h3>Paula Stuart</h3>
+                    <h5 class="g-mb-20">Vice President of Strategic Accounts and Infrastructure Service, Austin</h5>
+                    <p>Paula has been Vice President of Strategic Accounts and Infrastructure Services since February 12, 2018. Paula manages commercial accounts and will directly manage the Infrastructure Services team. We are extremely excited to have Paula on board - her experience and credentials will be a valuable asset to DYONYX internally as we work to achieve our growth strategies, as well as to our external clients, where she will add insight and expertise to deliver services that exceed their expectations. Paula has extensive IT merger & acquisition experience, managing SOX compliant IT infrastructures and the design of multi-faceted technical infrastructure builds across multiple companies and countries.</p>
                    </div>
                 </div>
               </div>
