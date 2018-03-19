@@ -603,7 +603,7 @@
             <!-- Team Block -->
             <figure class="u-block-hover">
               <!-- Figure Image -->
-              <a href="#frank" data-toggle="modal">
+              <a href="#paula" data-toggle="modal">
                 <img class="w-100" src="/img/team/paula.jpg" alt="Frank Morales">
                 <!-- End Figure Image-->
 
@@ -622,7 +622,7 @@
             <!-- End Team Block -->
 
             <!-- Demo modal window -->
-            <div tabindex="-1" class="modal fade frank" id="frank" role="dialog" aria-labelledby="frank">
+            <div tabindex="-1" class="modal fade paula" id="paula" role="dialog" aria-labelledby="paula">
               <div class="modal-dialog modal-md" role="document">
                 <div class="modal-content">
                     <div class="modal-body">
