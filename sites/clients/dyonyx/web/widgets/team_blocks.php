@@ -111,7 +111,7 @@
                 <!-- End Figure Image-->
 
                 <!-- Figure Caption -->
-                <figcaption class="u-block-hover__additional--v1 u-block-hover__additional--slide-up g-bg-cyan-opacity-0_9 g-pa-30">
+                <figcaption class="u-block-hover__additional--v1 u-block-hover__additional--slide-up g-bg-blue-opacity-0_9 g-pa-30">
                   <div class="u-block-hover__additional--v1 g-flex-middle">
                     <div class="text-center g-flex-middle-item">
                       <h4 class="h4 g-color-white g-mb-5">Patrick Clary</h4>
@@ -151,7 +151,7 @@
                 <!-- End Figure Image-->
 
                 <!-- Figure Caption -->
-                <figcaption class="u-block-hover__additional--v1 u-block-hover__additional--slide-left g-bg-teal-opacity-0_9 g-pa-30">
+                <figcaption class="u-block-hover__additional--v1 u-block-hover__additional--slide-left g-bg-blue-opacity-0_9 g-pa-30">
                   <div class="u-block-hover__additional--v1 g-flex-middle">
                     <div class="text-center g-flex-middle-item">
                       <h4 class="h4 g-color-white g-mb-5">James Melchor</h4>
@@ -192,7 +192,7 @@
                 <!-- End Figure Image-->
 
                 <!-- Figure Caption -->
-                <figcaption class="u-block-hover__additional--v1 u-block-hover__additional--slide-right g-bg-pink-opacity-0_9 g-pa-30">
+                <figcaption class="u-block-hover__additional--v1 u-block-hover__additional--slide-right g-bg-blue-opacity-0_9 g-pa-30">
                   <div class="u-block-hover__additional--v1 g-flex-middle">
                     <div class="text-center g-flex-middle-item">
                       <h4 class="h4 g-color-white g-mb-5">Talbot Theiss</h4>
@@ -276,7 +276,7 @@
                 <!-- End Figure Image-->
 
                 <!-- Figure Caption -->
-                <figcaption class="u-block-hover__additional--v1 u-block-hover__additional--slide-up g-bg-cyan-opacity-0_9 g-pa-30">
+                <figcaption class="u-block-hover__additional--v1 u-block-hover__additional--slide-up g-bg-blue-opacity-0_9 g-pa-30">
                   <div class="u-block-hover__additional--v1 g-flex-middle">
                     <div class="text-center g-flex-middle-item">
                       <h4 class="h4 g-color-white g-mb-5">Eva Gilbreath</h4>
@@ -317,7 +317,7 @@
                 <!-- End Figure Image-->
 
                 <!-- Figure Caption -->
-                <figcaption class="u-block-hover__additional--v1 u-block-hover__additional--slide-up g-bg-cyan-opacity-0_9 g-pa-30">
+                <figcaption class="u-block-hover__additional--v1 u-block-hover__additional--slide-up g-bg-blue-opacity-0_9 g-pa-30">
                   <div class="u-block-hover__additional--v1 g-flex-middle">
                     <div class="text-center g-flex-middle-item">
                       <h4 class="h4 g-color-white g-mb-5">Chris Davis</h4>
@@ -358,7 +358,7 @@
                 <!-- End Figure Image-->
 
                 <!-- Figure Caption -->
-                <figcaption class="u-block-hover__additional--v1 u-block-hover__additional--slide-down g-bg-pink-opacity-0_9 g-pa-30">
+                <figcaption class="u-block-hover__additional--v1 u-block-hover__additional--slide-down g-bg-blue-opacity-0_9 g-pa-30">
                   <div class="u-block-hover__additional--v1 g-flex-middle">
                     <div class="text-center g-flex-middle-item">
                       <h4 class="h4 g-color-white g-mb-5">Amanda Caballero</h4>
@@ -399,7 +399,7 @@
                 <!-- End Figure Image-->
 
                 <!-- Figure Caption -->
-                <figcaption class="u-block-hover__additional--v1 u-block-hover__additional--slide-up g-bg-cyan-opacity-0_9 g-pa-30">
+                <figcaption class="u-block-hover__additional--v1 u-block-hover__additional--slide-up g-bg-blue-opacity-0_9 g-pa-30">
                   <div class="u-block-hover__additional--v1 g-flex-middle">
                     <div class="text-center g-flex-middle-item">
                       <h4 class="h4 g-color-white g-mb-5">Steve Anderson</h4>
@@ -440,7 +440,7 @@
                 <!-- End Figure Image-->
 
                 <!-- Figure Caption -->
-                <figcaption class="u-block-hover__additional--v1 u-block-hover__additional--slide-left g-bg-teal-opacity-0_9 g-pa-30">
+                <figcaption class="u-block-hover__additional--v1 u-block-hover__additional--slide-left g-bg-blue-opacity-0_9 g-pa-30">
                   <div class="u-block-hover__additional--v1 g-flex-middle">
                     <div class="text-center g-flex-middle-item">
                       <h4 class="h4 g-color-white g-mb-5">Trisha Ondo</h4>
@@ -481,7 +481,7 @@
                 <!-- End Figure Image-->
 
                 <!-- Figure Caption -->
-                <figcaption class="u-block-hover__additional--v1 u-block-hover__additional--slide-left g-bg-teal-opacity-0_9 g-pa-30">
+                <figcaption class="u-block-hover__additional--v1 u-block-hover__additional--slide-left g-bg-blue-opacity-0_9 g-pa-30">
                   <div class="u-block-hover__additional--v1 g-flex-middle">
                     <div class="text-center g-flex-middle-item">
                       <h4 class="h4 g-color-white g-mb-5">Reese Kaplan</h4>
@@ -514,8 +514,9 @@
           </div>
 
 
+          <div class="col-lg-2 col-sm-6 g-mb-30 col-lg-offset-1"></div>
 
-          <div class="col-lg-3 col-sm-6 g-mb-30">
+          <div class="col-lg-3 col-sm-6 g-mb-30 col-lg-offset-1">
             <!-- Team Block -->
             <figure class="u-block-hover">
               <!-- Figure Image -->
@@ -566,7 +567,7 @@
                 <!-- End Figure Image-->
 
                 <!-- Figure Caption -->
-                <figcaption class="u-block-hover__additional--v1 u-block-hover__additional--slide-down g-bg-pink-opacity-0_9 g-pa-30">
+                <figcaption class="u-block-hover__additional--v1 u-block-hover__additional--slide-down g-bg-blue-opacity-0_9 g-pa-30">
                   <div class="u-block-hover__additional--v1 g-flex-middle">
                     <div class="text-center g-flex-middle-item">
                       <h4 class="h4 g-color-white g-mb-5">Frank Morales</h4>
@@ -608,11 +609,11 @@
                 <!-- End Figure Image-->
 
                 <!-- Figure Caption -->
-                <figcaption class="u-block-hover__additional--v1 u-block-hover__additional--slide-down g-bg-pink-opacity-0_9 g-pa-30">
+                <figcaption class="u-block-hover__additional--v1 u-block-hover__additional--slide-down g-bg-blue-opacity-0_9 g-pa-30">
                   <div class="u-block-hover__additional--v1 g-flex-middle">
                     <div class="text-center g-flex-middle-item">
                       <h4 class="h4 g-color-white g-mb-5">Paula Stuart</h4>
-                      <em class="d-block g-font-style-normal g-font-size-11 g-font-weight-600 text-uppercase g-color-white-opacity-0_9">Vice President of Strategic Accounts and Infrastructure Service, Austin</em>
+                      <em class="d-block g-font-style-normal g-font-size-11 g-font-weight-600 text-uppercase g-color-white-opacity-0_9">Vice President of Strategic Accounts and Infrastructure Service</em>
                     </div>
                   </div>
                 </figcaption>
@@ -630,7 +631,7 @@
                       <i class="hs-icon hs-icon-close"></i>
                     </button>
                     <h3>Paula Stuart</h3>
-                    <h5 class="g-mb-20">Vice President of Strategic Accounts and Infrastructure Service, Austin</h5>
+                    <h5 class="g-mb-20">Vice President of Strategic Accounts and Infrastructure Service</h5>
                     <p>Paula has been Vice President of Strategic Accounts and Infrastructure Services since February 12, 2018. Paula manages commercial accounts and will directly manage the Infrastructure Services team. We are extremely excited to have Paula on board - her experience and credentials will be a valuable asset to DYONYX internally as we work to achieve our growth strategies, as well as to our external clients, where she will add insight and expertise to deliver services that exceed their expectations. Paula has extensive IT merger & acquisition experience, managing SOX compliant IT infrastructures and the design of multi-faceted technical infrastructure builds across multiple companies and countries.</p>
                    </div>
                 </div>
