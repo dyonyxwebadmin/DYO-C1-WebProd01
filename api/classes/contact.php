@@ -111,7 +111,57 @@ class Contact {
         
         return json_encode($this->kv);
     }
+
+    public function kv_pivot()
+    {
+        global $connection;
+
+        $sql = "SELECT kvs.contact_id
+                     , MAX(CASE WHEN kvs.k='source'    THEN kvs.v END) source
+                     , MAX(CASE WHEN kvs.k='name'    THEN kvs.v END) name
+                     , MAX(CASE WHEN kvs.k='company'   THEN kvs.v END) company
+                     , MAX(CASE WHEN kvs.k='email' THEN kvs.v END) email
+                     , MAX(CASE WHEN kvs.k='phone' THEN kvs.v END) phone
+                     , MAX(CASE WHEN kvs.k='chkBring' THEN kvs.v END) Bring
+                     , c.added_on
+                FROM 
+                    contact_kvs kvs
+                    inner join contacts c on kvs.contact_id = c.uuid
+                WHERE 
+                    c.site = '$this->site'
+                 GROUP BY kvs.contact_id";
+        //echo $sql . "<br />";
+        $result = mysqli_query($connection, $sql);
+
+        while($obj = mysqli_fetch_object($result)) {
+            $this->kv[] = $obj;
+        }
+        
+        return json_encode($this->kv);
+    }
     
+	public function kv_emailpivot($email)
+    {
+        global $connection;
+
+        $sql = "SELECT kvs.contact_id
+                     , MAX(CASE WHEN kvs.k='source'    THEN kvs.v END) source
+                     , MAX(CASE WHEN kvs.k='name'    THEN kvs.v END) name
+                     , MAX(CASE WHEN kvs.k='company'   THEN kvs.v END) company
+                     , MAX(CASE WHEN kvs.k='email' THEN kvs.v END) email
+                     , MAX(CASE WHEN kvs.k='phone' THEN kvs.v END) phone
+                FROM 
+                    contact_kvs kvs
+                    inner join contacts c on kvs.contact_id = c.uuid
+                WHERE 
+                    c.site = '$this->site' and kvs.k = 'email' and kvs.v = '$email'
+                 GROUP BY kvs.contact_id";
+        //echo $sql . "<br />";
+        $result = mysqli_query($connection, $sql);
+
+		return mysqli_num_rows($result);
+    }
+
 
     ///////////////////////////////////////////////////////////
     //

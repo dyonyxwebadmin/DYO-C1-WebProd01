@@ -51,6 +51,11 @@
     
     <script src="/js/helpers/hs.hamburgers.js"></script>
     <script src="/js/helpers/hs.bg-video.js"></script>
+	
+	<!--validators -->
+	<script src="/js/jquery.validate.min.js"></script>
+	<script src="/js/additional-methods.min.js"></script>
 
     <!-- JS Customization -->
     <script src="/js/custom.js"></script>
+	<script src="/js//questionnaire.js"></script>

@@ -1,9 +1,10 @@
 {
     "Site": {
         "SiteName": "DYONYX",
-		"Config": {
-            "Template": "unify"
-        },
+      "Config": {
+        "Template": "unify",
+        "Notifications": "block2150@gmail.coml"
+      },
         "Defaults": {
         	"PageTitle": "Welcome to Ryan's Site",
         	"Address": "555 Main Street",
