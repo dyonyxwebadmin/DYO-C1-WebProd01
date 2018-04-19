@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/*------------------------------------
+  Default Styles
+------------------------------------*/
+.has-error .help-block, .text-danger, .font-red, .parsley-required {
+    color: #ff5757 !important;
+}
+
+.has-error .form-control, .has-error .input-group-addon {
+    border-color: #faa69b;
+    box-shadow: none;
+}
+
+.has-error .checkbox, .has-error .checkbox-inline, .has-error .control-label, .has-error .help-block, .has-error .radio, .has-error .radio-inline, .has-error.checkbox label, .has-error.checkbox-inline label, .has-error.radio label, .has-error.radio-inline label {
+    color: #f33a22;
+}
+
