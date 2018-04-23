@@ -7,7 +7,7 @@
         <!-- Header Content -->
         <div class="container g-color-white text-center g-py-200">
           <h2 class="g-font-weight-700 g-font-size-65 text-uppercase">DYONYX</h2>
-          <h3 class="h2 dyonyx g-font-weight-300 mb-0">Cloud Questionnaire</h3>
+          <h3 class="h2 dyonyx g-font-weight-300 mb-0">How Ready Are You?</h3>
         </div>
         <!-- End Header Content -->
       </section>
@@ -23,7 +23,7 @@
               </div>
               <p style="color:#1a508f;"><strong>Find out if your company qualifies<strong></p>
 			  <p>DYONYX Cloud Solutions can run your entire business IT environment and offer you an affordable, flexible solution for storing data and connecting your offices and clients around the country and around the world.</p>
-			  <p>Complete the form for a chance to win an Amazon gift card or a Amazon Echo Show</p>
+			  <p>Complete the form for a chance to win an Amazon gift card or an Amazon Echo Show</p>
             </div>
           </div>
         </div>
@@ -151,7 +151,7 @@
 							</label><br />
 
 							<label for="barriers_management">
-								<input type="checkbox" class="checkbox" id="barriers_management" value="Lack of management understanding/willing to innovate" name="barriers" >Lack of management understanding/willing to innovate
+								<input type="checkbox" class="checkbox" id="barriers_management" value="Lack of management understanding/willingness to innovate" name="barriers" >Lack of management understanding/willingness to innovate
 							</label><br />
 							<label for="barriers_politics">
 								<input type="checkbox" class="checkbox" id="barriers_politics " value="Organizational politics" name="barriers">Organizational politics
@@ -227,14 +227,14 @@
 								<input type="checkbox" class="checkbox" id="cloud_development" value="A development team" name="cloud" required="" minlength="1" data-msg-required="Please select at least one option." aria-required="true" data-msg-minlength="Please select at least one option.">A development team
 							</label><br />
 							<label for="cloud_operations">
-								<input type="checkbox" class="checkbox" id="cloud_operations " value="An IT operations team" name="cloud"> An IT operations team
+								<input type="checkbox" class="checkbox" id="cloud_operations " value="An IT operations team" name="cloud">An IT operations team
 							</label><br />
 							<label for="cloud_department">
 								<input type="checkbox" class="checkbox" id="cloud_department" value="A departmental/LOB project" name="cloud">A departmental/LOB project
 							</label><br />
 
 							<label for="cloud_ecision">
-								<input type="checkbox" class="checkbox" id="cloud_ecision" value="A CEO ecision" name="cloud">A CEO ecision
+								<input type="checkbox" class="checkbox" id="cloud_ecision" value="A CEO decision" name="cloud">A CEO decision
 							</label><br />
 							<label for="cloud_decision">
 								<input type="checkbox" class="checkbox" id="cloud_decision " value="A CIO/Senior IT Exec decision" name="cloud">A CIO/Senior IT Exec decision
@@ -253,10 +253,10 @@
 								<input type="checkbox" class="checkbox" id="department_applications" value="Includes additional applications within the same department" name="department" required="" minlength="1" data-msg-required="Please select at least one option." aria-required="true" data-msg-minlength="Please select at least one option.">Includes additional applications within the same department
 							</label><br />
 							<label for="department_addtional">
-								<input type="checkbox" class="checkbox" id="department_addtional " value="Includes additional applications across departments" name="department"> Includes additional applications across departments
+								<input type="checkbox" class="checkbox" id="department_addtional " value="Includes additional applications across departments" name="department">Includes additional applications across departments
 							</label><br />
 							<label for="department_computing">
-								<input type="checkbox" class="checkbox" id="department_computing" value="Organizational-wide mandate to adopt cloud computing" name="department">Organizational-wide mandate to adopt cloud computing
+								<input type="checkbox" class="checkbox" id="department_computing" value="Organization-wide mandate to adopt cloud computing" name="department">Organization-wide mandate to adopt cloud computing
 							</label><br />
 
 							<label for="department_notsure">

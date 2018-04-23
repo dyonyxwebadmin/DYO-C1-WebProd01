@@ -72,7 +72,7 @@
                   <div class="u-block-hover__additional--v1 g-flex-middle">
                     <div class="text-center g-flex-middle-item">
                       <h4 class="h4 g-color-white g-mb-5">Chuck Orrico</h4>
-                      <em class="d-block g-font-style-normal g-font-size-11 g-font-weight-600 text-uppercase g-color-white-opacity-0_9">President & CEO</em>
+                      <em class="d-block g-font-style-normal g-font-size-11 g-font-weight-600 text-uppercase g-color-white-opacity-0_9">CEO</em>
                     </div>
                   </div>
                 </figcaption>
@@ -90,7 +90,7 @@
                       <i class="hs-icon hs-icon-close"></i>
                     </button>
                       <h3>Chuck Orrico</h3>
-                      <h5 class="g-mb-20">President & CEO</h5>
+                      <h5 class="g-mb-20">CEO</h5>
                       <p>As CEO, Chuck is responsible for the overall financial and operational performance of the company, strategic planning, risk management and emerging markets. Chuck has more than 35 years of experience in helping clients develop business solutions through IT strategic planning, information management and technology investment. Prior to co-founding DYONYX in 1996, Chuck worked 12 years at Hays Information Management, a multi-billion dollar information management company with global operations. There, he held a variety of senior management leadership positions in sales, operations, technology and finance.</p>
 
                       <p>Today, Chuck's entrepreneurial spirit and keen business acumen have helped DYONYX maintain its focus on quality, which has resulted in improved business operations for its clients. Chuck attended the University of St. Thomas in Houston, Texas on a four year golf scholarship and received a bachelor's degree in business administration in 1984. As a firm believer in community service, Chuck supports critically important causes such as Texas Children's Hospital, Children’s Advocacy Center of Houston (CAC), Boys and Girls Country, Love 146, Salem Ministry Missions, College Golf Fellowship, and served as the Past President of the board of directors for The Children's Advocacy Centers of Texas <a href="http://www.cactx.org" target="_blank">www.cactx.org</a></p>
@@ -115,7 +115,7 @@
                   <div class="u-block-hover__additional--v1 g-flex-middle">
                     <div class="text-center g-flex-middle-item">
                       <h4 class="h4 g-color-white g-mb-5">Patrick Clary</h4>
-                      <em class="d-block g-font-style-normal g-font-size-11 g-font-weight-600 text-uppercase g-color-white-opacity-0_9">EVP & COO</em>
+                      <em class="d-block g-font-style-normal g-font-size-11 g-font-weight-600 text-uppercase g-color-white-opacity-0_9">President</em>
                     </div>
                   </div>
                 </figcaption>
@@ -133,7 +133,7 @@
                       <i class="hs-icon hs-icon-close"></i>
                     </button>
                     <h3>Patrick Clary</h3>
-                    <h5 class="g-mb-20">Executive Vice President and Chief Operations Officer</h5>
+                    <h5 class="g-mb-20">President</h5>
                     <p>Patrick Clary is President and Chief Operating Officer of DYONYX. Patrick has successfully served as Executive Vice President and COO for the company for the last 4 years and will continue to manage the executive management team and have ultimate responsibility for the overall operational performance of DYONYX. Prior to joining DYONYX, Patrick was involved in the start-up and management of two technology services firms and spent 10 years with Certified Associates, a national recruitment and staffing management firm. Patrick holds a BS in Management with a minor in Marketing from Clemson University.</p>
                    </div>
                 </div>

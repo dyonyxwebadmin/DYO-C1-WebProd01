@@ -3,7 +3,7 @@
         "SiteName": "DYONYX",
 		"Config": {
             "Template": "unify",
-            "Notifications": "block2150@gmail.coml;Jordan.Orrico@dyonyx.com;crandall@ims360group.com"},
+            "Notifications": "block2150@gmail.com;Jordan.Orrico@dyonyx.com;crandall@ims360group.com"
         },
         "Defaults": {
         	"PageTitle": "Welcome to Ryan's Site",

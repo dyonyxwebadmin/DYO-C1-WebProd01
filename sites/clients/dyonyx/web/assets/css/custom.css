@@ -1299,3 +1299,7 @@ textarea.hs-input[disabled] {
         height: 72px
     }
 }    
+
+[type=checkbox], [type=radio] {
+    margin-right: 30px;
+}
