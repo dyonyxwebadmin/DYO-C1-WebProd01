@@ -8,8 +8,8 @@
             <!-- Google Map -->
             <div id="GMap1-light" class="js-g-map embed-responsive embed-responsive-21by9 g-height-400"
                  data-type="custom"
-                 data-lat="29.8118628"
-                 data-lng="-95.423938"
+                 data-lat="29.850844"
+                 data-lng="-95.508024"
                  data-zoom="14"
                  data-title="DYONYX"
                  data-styles='[["", "", [{"saturation":-100},{"lightness":51},{"visibility":"simplified"}]], ["", "labels", [{"visibility":"on"}]], ["water", "", [{"color":"#bac6cb"}]] ]'
