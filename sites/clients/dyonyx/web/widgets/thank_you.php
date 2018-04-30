@@ -6,7 +6,7 @@
           <div class="col-md-7 g-mb-30">
             <div class="g-mb-20">
               <h2 class="h1 g-color-black g-font-weight-700 text-uppercase">Thank you for you answers.</h2>
-			  <span class="d-block g-color-gray-dark-v3 g-font-weight-700 g-font-size-13 text-uppercase">We will come back to you soon....</span>
+			         <span class="d-block g-color-gray-dark-v3 g-font-weight-700 g-font-size-13 text-uppercase">We will come back to you soon....</span>
             </div>
 
             <p class="lead">As creatives, it's important that we strive to do work outside of obligation. This lets us stay ahead of the curve for our clients and internal projects. We strive to embrace and drive change in our industry which allows us to keep our clients relevant and ready to adapt.</p>
@@ -14,7 +14,7 @@
           </div>
 
           <div class="col-md-5 g-mb-30">
-            <img class="img-fluid mb-4" src="/img/temp/770x502/img1.png" alt="Image description">
+            <img class="img-fluid" src="/img/cloud.png" alt="Image Description">
           </div>
         </div>
       </section>
