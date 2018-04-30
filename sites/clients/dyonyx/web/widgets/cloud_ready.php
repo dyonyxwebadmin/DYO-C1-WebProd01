@@ -23,7 +23,7 @@
               </div>
               <p style="color:#1a508f;"><strong>Find out if your company qualifies<strong></p>
 			  <p>DYONYX Cloud Solutions can run your entire business IT environment and offer you an affordable, flexible solution for storing data and connecting your offices and clients around the country and around the world.</p>
-			  <p>Complete the form for a chance to win an Amazon gift card or an Amazon Echo Show</p>
+			  <p>Complete the form for a chance to win an Amazon gift card or an Amazon Echo Show.</p>
             </div>
           </div>
         </div>
