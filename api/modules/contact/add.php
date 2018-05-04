@@ -273,7 +273,7 @@ try {
     );
     $mail->SMTPAuth = true;                               // Enable SMTP authentication
     $mail->Username = 'apikey';               // SMTP username
-    $mail->Password = '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';                         // SMTP password
+    $mail->Password = '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';                         // SMTP password
     $mail->SMTPSecure = 'tls';                            // Enable TLS encryption, `ssl` also accepted
     $mail->Port = 587;                                    // TCP port to connect to
 
