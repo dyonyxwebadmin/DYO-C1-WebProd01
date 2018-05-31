@@ -122,7 +122,16 @@ class Contact {
                      , MAX(CASE WHEN kvs.k='company'   THEN kvs.v END) company
                      , MAX(CASE WHEN kvs.k='email' THEN kvs.v END) email
                      , MAX(CASE WHEN kvs.k='phone' THEN kvs.v END) phone
+                     , MAX(CASE WHEN kvs.k='first_name'    THEN kvs.v END) first_name
+                     , MAX(CASE WHEN kvs.k='last_name'    THEN kvs.v END) last_name
+                     , MAX(CASE WHEN kvs.k='companyname'    THEN kvs.v END) company_name
                      , MAX(CASE WHEN kvs.k='chkBring' THEN kvs.v END) Bring
+                     , MAX(CASE WHEN kvs.k='organization' THEN kvs.v END) organization
+                     , MAX(CASE WHEN kvs.k='barriers' THEN kvs.v END) barriers
+                     , MAX(CASE WHEN kvs.k='applications' THEN kvs.v END) applications
+                     , MAX(CASE WHEN kvs.k='computing' THEN kvs.v END) computing
+                     , MAX(CASE WHEN kvs.k='cloud' THEN kvs.v END) cloud
+                     , MAX(CASE WHEN kvs.k='department' THEN kvs.v END) department
                      , c.added_on
                 FROM 
                     contact_kvs kvs
@@ -140,7 +149,7 @@ class Contact {
         return json_encode($this->kv);
     }
     
-	public function kv_emailpivot($email)
+    public function kv_emailpivot($email)
     {
         global $connection;
 
@@ -159,7 +168,7 @@ class Contact {
         //echo $sql . "<br />";
         $result = mysqli_query($connection, $sql);
 
-		return mysqli_num_rows($result);
+        return mysqli_num_rows($result);
     }
 
 
