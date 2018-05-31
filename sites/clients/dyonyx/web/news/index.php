@@ -63,6 +63,102 @@
         <div class="masonry-grid row g-mb-70">
           <div class="masonry-grid-sizer col-sm-1"></div>
 
+
+
+          <div class="masonry-grid-item col-sm-6 g-mb-30">
+
+            
+            <!-- Blog Classic Blocks -->
+            <article class="u-shadow-v11">
+              <div class="g-bg-white g-pa-30">
+                <span class="d-block g-color-gray-dark-v4 g-font-weight-600 g-font-size-12 text-uppercase mb-2">14 May 2018</span>
+                <h2 class="h5 g-color-black g-font-weight-600 mb-3">
+                  <span class="u-link-v5 g-color-black g-color-primary--hover g-cursor-pointer">DYONYX Awarded IT Outsource Support Contract by Houston Based Production Equipment Company</span>
+                </h2>
+                <p class="g-color-gray-dark-v4 g-line-height-1_8">Houston, TX — On May 14, 2018 DYONYX was awarded an IT outsource support contract by a leading oil and gas production equipment firm headquartered in Houston, Texas. DYONYX will be providing the complete suite of IT managed services, cloud computing, and on-site operational IT support to the Houston client ensuring all systems are secure, and highly available.</p>
+
+              </div>
+            </article>
+            <!-- End Blog Classic Blocks -->
+          </div>
+
+
+          <div class="masonry-grid-item col-sm-6 g-mb-30">
+
+            
+            <!-- Blog Classic Blocks -->
+            <article class="u-shadow-v11">
+              <div class="g-bg-white g-pa-30">
+                <span class="d-block g-color-gray-dark-v4 g-font-weight-600 g-font-size-12 text-uppercase mb-2">1 May 2018</span>
+                <h2 class="h5 g-color-black g-font-weight-600 mb-3">
+                  <span class="u-link-v5 g-color-black g-color-primary--hover g-cursor-pointer">DYONYX Awarded IT PMO Outsource Support Contract by Health and Human Services</span>
+                </h2>
+                <p class="g-color-gray-dark-v4 g-line-height-1_8">Washington D.C. — On May 1, 2018 DYONYX was awarded an IT PMO outsource support contract by Health and Human Services (HHS), Office of Medicare Hearings and Appeals (OMHA)  in Bethesda, MD. DYONYX will be providing IT Facility Operation and Maintenance Support for OMHA’s central office and 8 field offices located throughout the U.S.  </p>
+
+              </div>
+            </article>
+            <!-- End Blog Classic Blocks -->
+          </div>
+
+
+          <div class="masonry-grid-item col-sm-6 g-mb-30">
+
+            
+            <!-- Blog Classic Blocks -->
+            <article class="u-shadow-v11">
+              <div class="g-bg-white g-pa-30">
+                <span class="d-block g-color-gray-dark-v4 g-font-weight-600 g-font-size-12 text-uppercase mb-2">11 April 2018</span>
+                <h2 class="h5 g-color-black g-font-weight-600 mb-3">
+                  <span class="u-link-v5 g-color-black g-color-primary--hover g-cursor-pointer">DYONYX Awarded Cloud Computing Contract by Houston Based Engineering Firm</span>
+                </h2>
+                <p class="g-color-gray-dark-v4 g-line-height-1_8">Houston, TX — On April 11, 2018 DYONYX was awarded a Cloud Hosting contract by a well-established engineering firm headquartered in Houston, Texas. DYONYX will be providing full cloud computing, back up and security monitoring of the client’s business applications on a 24x7 basis.</p>
+
+              </div>
+            </article>
+            <!-- End Blog Classic Blocks -->
+          </div>
+
+
+          <div class="masonry-grid-item col-sm-6 g-mb-30">
+
+            
+            <!-- Blog Classic Blocks -->
+            <article class="u-shadow-v11">
+              <div class="g-bg-white g-pa-30">
+                <span class="d-block g-color-gray-dark-v4 g-font-weight-600 g-font-size-12 text-uppercase mb-2">2 April 2018</span>
+                <h2 class="h5 g-color-black g-font-weight-600 mb-3">
+                  <span class="u-link-v5 g-color-black g-color-primary--hover g-cursor-pointer">DYONYX Awarded IT Outsource Support Contract by Houston Based Chiropractic Educational institution</span>
+                </h2>
+                <p class="g-color-gray-dark-v4 g-line-height-1_8">Houston, TX — On April 2, 2018 DYONYX was awarded an IT outsource support contract by one of Houston’s largest chiropractic educational institutions. DYONYX will be providing the complete suite of IT managed services, 24x7 Service Desk support, cloud computing, and on-site operational IT support to the Houston client ensuring all systems are secure, and highly available.</p>
+
+              </div>
+            </article>
+            <!-- End Blog Classic Blocks -->
+          </div>
+
+
+          <div class="masonry-grid-item col-sm-6 g-mb-30">
+
+            
+            <!-- Blog Classic Blocks -->
+            <article class="u-shadow-v11">
+              <div class="g-bg-white g-pa-30">
+                <span class="d-block g-color-gray-dark-v4 g-font-weight-600 g-font-size-12 text-uppercase mb-2">10 Maarch 2018</span>
+                <h2 class="h5 g-color-black g-font-weight-600 mb-3">
+                  <span class="u-link-v5 g-color-black g-color-primary--hover g-cursor-pointer">DYONYX Awarded Service Desk Support Contract by Veterans Administration</span>
+                </h2>
+                <p class="g-color-gray-dark-v4 g-line-height-1_8">Washington D.C. — On March 10, 2018 DYONYX was awarded a Service Desk contract by the Veteran’s Administration(VA) in Washington D.C. DYONYX will be providing 24x7 level II application support for the VA’s veteran benefit application supporting over 25,000 end users in 50 different U.S. field offices. The service desk support will be provided out of DYONYX’s Houston based ITIL compliant service desk and NOC facility.</p>
+
+              </div>
+            </article>
+            <!-- End Blog Classic Blocks -->
+          </div>
+
+
+
+
+
+
           <div class="masonry-grid-item col-sm-6 g-mb-30">
 
             

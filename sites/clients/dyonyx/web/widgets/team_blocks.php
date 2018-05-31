@@ -115,7 +115,7 @@
                   <div class="u-block-hover__additional--v1 g-flex-middle">
                     <div class="text-center g-flex-middle-item">
                       <h4 class="h4 g-color-white g-mb-5">Patrick Clary</h4>
-                      <em class="d-block g-font-style-normal g-font-size-11 g-font-weight-600 text-uppercase g-color-white-opacity-0_9">President</em>
+                      <em class="d-block g-font-style-normal g-font-size-11 g-font-weight-600 text-uppercase g-color-white-opacity-0_9">COO & President</em>
                     </div>
                   </div>
                 </figcaption>
@@ -133,7 +133,7 @@
                       <i class="hs-icon hs-icon-close"></i>
                     </button>
                     <h3>Patrick Clary</h3>
-                    <h5 class="g-mb-20">President</h5>
+                    <h5 class="g-mb-20">COO & President</h5>
                     <p>Patrick Clary is President and Chief Operating Officer of DYONYX. Patrick has successfully served as Executive Vice President and COO for the company for the last 4 years and will continue to manage the executive management team and have ultimate responsibility for the overall operational performance of DYONYX. Prior to joining DYONYX, Patrick was involved in the start-up and management of two technology services firms and spent 10 years with Certified Associates, a national recruitment and staffing management firm. Patrick holds a BS in Management with a minor in Marketing from Clemson University.</p>
                    </div>
                 </div>
