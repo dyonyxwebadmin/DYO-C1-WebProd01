@@ -28,29 +28,10 @@
 		<main>
 			
 			<!-- ============================================================= SECTION – PRODUCT ============================================================= -->
-			
-			<section id="services">
-				<div class="container inner">
-					
-					<div class="row inner-top-md">
-						
-						<div class="col-sm-12">
-							
-							<div class="container">
-								<h3>Contact Lists</h1>
+			<h3>Contact Lists</h1>
 				
-								<table id="datatable-contacts" class="display" cellspacing="0" width="100%">
-								</table>
-
-							</div>
-						</div><!-- /.col -->
-						
-					
-					</div><!-- /.row -->
-				
-				</div><!-- /.container -->
-			</section>
-			
+			<table id="datatable-contacts" class="display" cellspacing="0" width="100%">
+			</table>
 			
 			
 		</main>
