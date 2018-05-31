@@ -103,10 +103,10 @@
 	</script>
 
 	<script>
-			$(document).ready(function(){ 
-				$(".changecolor").switchstylesheet( { seperator:"color"} );
-			});
-		</script>
+		// $(document).ready(function(){ 
+		// 	$(".changecolor").switchstylesheet( { seperator:"color"} );
+		// });
+	</script>
 </body>
 
 </html>
