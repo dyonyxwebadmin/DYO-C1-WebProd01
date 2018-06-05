@@ -151,7 +151,7 @@
                 <h2 class="h5 g-color-black g-font-weight-600 mb-3">
                   <span class="u-link-v5 g-color-black g-color-primary--hover g-cursor-pointer">DYONYX Awarded Service Desk Support Contract by Veterans Administration</span>
                 </h2>
-                <p class="g-color-gray-dark-v4 g-line-height-1_8">Washington D.C. — On March 10, 2018 DYONYX was awarded a Service Desk contract by the Veteran’s Administration(VA) in Washington D.C. DYONYX will be providing 24x7 level II application support for the VA’s veteran benefit application supporting over 25,000 end users in 50 different U.S. field offices. The service desk support will be provided out of DYONYX’s Houston based ITIL compliant service desk and NOC facility.</p>
+                <p class="g-color-gray-dark-v4 g-line-height-1_8">Washington D.C. — On March 10, 2018 DYONYX was awarded a Service Desk contract by the Veteran’s Administration (VA) in Washington D.C. DYONYX will be providing 24x7 level II application support for the VA’s veteran benefit application supporting over 25,000 end users in 50 different U.S. field offices. The service desk support will be provided out of DYONYX’s Houston based ITIL compliant service desk and NOC facility.</p>
 
               </div>
             </article>
