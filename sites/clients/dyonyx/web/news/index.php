@@ -143,7 +143,7 @@
             <!-- Blog Classic Blocks -->
             <article class="u-shadow-v11">
               <div class="g-bg-white g-pa-30">
-                <span class="d-block g-color-gray-dark-v4 g-font-weight-600 g-font-size-12 text-uppercase mb-2">10 Maarch 2018</span>
+                <span class="d-block g-color-gray-dark-v4 g-font-weight-600 g-font-size-12 text-uppercase mb-2">10 March 2018</span>
                 <h2 class="h5 g-color-black g-font-weight-600 mb-3">
                   <span class="u-link-v5 g-color-black g-color-primary--hover g-cursor-pointer">DYONYX Awarded Service Desk Support Contract by Veterans Administration</span>
                 </h2>
