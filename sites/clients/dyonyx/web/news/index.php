@@ -93,7 +93,11 @@
                 <h2 class="h5 g-color-black g-font-weight-600 mb-3">
                   <span class="u-link-v5 g-color-black g-color-primary--hover g-cursor-pointer">DYONYX Awarded IT PMO Outsource Support Contract by Health and Human Services</span>
                 </h2>
-                <p class="g-color-gray-dark-v4 g-line-height-1_8">Washington D.C. — On May 1, 2018 DYONYX was awarded an IT PMO outsource support contract by Health and Human Services (HHS), Office of Medicare Hearings and Appeals (OMHA)  in Bethesda, MD. DYONYX will be providing IT Facility Operation and Maintenance Support for OMHA’s central office and 8 field offices located throughout the U.S.  </p>
+                <p class="g-color-gray-dark-v4 g-line-height-1_8">Washington D.C. — On May 1, 2018 DYONYX was awarded a 2-year IT PMO support
+                contract by the Department of Health and Human Services (HHS), Office of Medicare Hearings
+                and Appeals (OMHA). DYONYX will be providing IT Facility Operations and Maintenance
+                Support for OMHA’s headquarters in Arlington, VA and 13 field offices located throughout the
+                U.S.</p>
 
               </div>
             </article>
