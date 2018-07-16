@@ -60,6 +60,22 @@
       gtag('config', 'UA-22602005-1');
     </script>
 
+<script>
+    var cid = 6897; 
+    (function() { 
+	     window.astoundz = 'astoundz'; 
+ 	     window.astoundz = window.astoundz || function(){ 
+		    (window.astoundz.q = window.ga.q || []).push(arguments) 
+	     }, 
+	     window.astoundz.l = 1 * new Date(); 
+	     var a = document.createElement('script'); 
+	     var m = document.getElementsByTagName('script')[0]; 
+	     a.async = 1; 
+	     a.src = "https://api1.websuccess-data.com/wltracker.js"; 
+	     m.parentNode.insertBefore(a,m) 
+        })()
+</script>
+
     <!-- Start of HubSpot Embed Code -->
       <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/376700.js"></script>
     <!-- End of HubSpot Embed Code -->
